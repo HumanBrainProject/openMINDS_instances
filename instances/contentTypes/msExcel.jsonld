@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ms-excel",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "name": "application/vnd.ms-excel",
+  "associatedFileExtension": [".xls"],
+  "category": null,
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/vnd.ms-excel",
+  "synonym": ["Microsoft Excel", "XLS"]
+}

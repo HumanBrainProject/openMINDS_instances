@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/json",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "name": "application/json",
+  "associatedFileExtension": [".json"],
+  "category": null,
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/json",
+  "synonym": ["JavaScript Object Notation", "JSON"]
+}

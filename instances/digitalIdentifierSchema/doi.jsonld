@@ -1,0 +1,7 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/digitalIdentifierSchema/doi",
+  "@type": "https://openminds.ebrains.eu/core/DigitalIdentifierSchema",
+  "type": "DOI",
+  "IRI": "https://www.doi.org",
+  "identifierPattern": "https://doi.org/.*?/.*?"
+}
