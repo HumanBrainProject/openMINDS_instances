@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/tiff",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "image/tiff",
+    "associatedFileExtension": [".tiff", ".tif"],
+    "category": null,
+    "relatedMediaType": "https://www.iana.org/assignments/media-types/image/tiff",
+    "synonym": ["Tagged Image File (Tiled)", ""]
+  }

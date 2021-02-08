@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/text/x-objcsrc",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "text/x-objcsrc",
+    "associatedFileExtension": [".m"],
+    "category": null,
+    "relatedMediaType": null,
+    "synonym": ["Objective C source file", ""]
+  }

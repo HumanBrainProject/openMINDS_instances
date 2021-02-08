@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuralensemble.pynn",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.neuralensemble.pynn",
+    "associatedFileExtension": [".py"],
+    "category": null,
+    "relatedMediaType": "",
+    "synonym": ["Python:PyNN", ""]
+  }

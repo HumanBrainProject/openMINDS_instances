@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nest-simulator+python",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.nest-simulator+python",
+    "associatedFileExtension": [".py"],
+    "category": null,
+    "relatedMediaType": "",
+    "synonym": ["Python:NEST", ""]
+  }

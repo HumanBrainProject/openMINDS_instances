@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bids",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.bids",
+    "associatedFileExtension": [""],
+    "category": null,
+    "relatedMediaType": null,
+    "synonym": ["BIDS", ""]
+  }

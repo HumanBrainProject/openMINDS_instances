@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/tiff.multipage",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "image/tiff.multipage",
+    "associatedFileExtension": [".tiff", ".tif"],
+    "category": null,
+    "relatedMediaType": null,
+    "synonym": ["Tagged Image File (Multi-page)", ""]
+  }

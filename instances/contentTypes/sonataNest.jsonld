@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sonata.nest",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "name": "application/vnd.sonata.nest",
+  "associatedFileExtension": [""],
+  "category": null,
+  "relatedMediaType": "",
+  "synonym": ["SONATA:NEST", ""]
+}
