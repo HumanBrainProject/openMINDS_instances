@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/text/csv",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "text/csv",
+    "associatedFileExtension": [".csv"],
+    "category": null,
+    "relatedMediaType": "https://www.iana.org/assignments/media-types/text/csv",
+    "synonym": ["Comma-Separated Value", "CSV"]
+  }
