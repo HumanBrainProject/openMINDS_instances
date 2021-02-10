@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brainvision",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.brainvision",
+    "associatedFileExtension": [".vhdr"],
+    "category": null,
+    "relatedMediaType": null,
+    "synonym": ["BrainVision product", ""]
+  }

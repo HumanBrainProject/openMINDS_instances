@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.tdt",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.tdt",
+    "associatedFileExtension": null,
+    "category": null,
+    "relatedMediaType": null,
+    "synonym": ["Tucker David TTank format", ""]
+  }

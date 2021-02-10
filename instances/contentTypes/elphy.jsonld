@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.elphy",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.elphy",
+    "associatedFileExtension": [".dat"],
+    "category": null,
+    "relatedMediaType": null,
+    "synonym": ["Data Files", ""]
+  }

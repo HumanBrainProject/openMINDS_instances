@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.stimfit",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.stimfit",
+    "associatedFileExtension": [".abf", ".abf2", ".atf", ".axgx", ".axgd", ".cfs", ".heka", ".hdf5"],
+    "category": null,
+    "relatedMediaType": null,
+    "synonym": ["Python stfio", ""]
+  }
