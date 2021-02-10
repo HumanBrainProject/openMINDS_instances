@@ -4,6 +4,6 @@
     "name": "application/vnd.neuron-simulator+python",
     "associatedFileExtension": [".py"],
     "category": null,
-    "relatedMediaType": "",
+    "relatedMediaType": null,
     "synonym": ["Python:NEURON", ""]
   }

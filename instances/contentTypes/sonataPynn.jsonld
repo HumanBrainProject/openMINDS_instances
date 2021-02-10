@@ -2,8 +2,8 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sonata.pynn",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.sonata.pynn",
-    "associatedFileExtension": [""],
+    "associatedFileExtension": null,
     "category": null,
-    "relatedMediaType": "",
+    "relatedMediaType": null,
     "synonym": ["SONATA:PyNN", ""]
   }
