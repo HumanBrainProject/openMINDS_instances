@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/asciispiketrain",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "image/asciispiketrain",
+    "associatedFileExtension": [".txt"],
+    "category": null,
+    "relatedMediaType": null,
+    "synonym": ["Neo SpikeTrains", ""]
+  }

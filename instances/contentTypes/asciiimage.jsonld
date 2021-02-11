@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/asciiimage",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "image/asciiimage",
+    "associatedFileExtension": null,
+    "category": null,
+    "relatedMediaType": null,
+    "synonym": ["Ascii Image", ""]
+  }

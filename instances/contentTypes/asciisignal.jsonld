@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/asciisignal",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "image/asciisignal",
+    "associatedFileExtension": [".txt", ".asc", ".csv", ".tsv,"],
+    "category": null,
+    "relatedMediaType": null,
+    "synonym": ["Neo AnalogSignals", ""]
+  }

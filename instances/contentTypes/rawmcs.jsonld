@@ -1,0 +1,9 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.rawmcs",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.rawmcs",
+    "associatedFileExtension": [".raw"],
+    "category": null,
+    "relatedMediaType": null,
+    "synonym": ["Raw Multi Channel System", "MCS"]
+  }
