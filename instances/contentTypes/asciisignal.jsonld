@@ -1,7 +1,7 @@
 {
-    "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/asciisignal",
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neo.ascii.signal",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
-    "name": "image/asciisignal",
+    "name": "application/vnd.neo.ascii.signal",
     "associatedFileExtension": [".txt", ".asc", ".csv", ".tsv,"],
     "category": null,
     "relatedMediaType": null,

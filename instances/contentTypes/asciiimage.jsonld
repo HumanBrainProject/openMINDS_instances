@@ -1,7 +1,7 @@
 {
-    "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/asciiimage",
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neo.ascii.image",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
-    "name": "image/asciiimage",
+    "name": "application/vnd.neo.ascii.image",
     "associatedFileExtension": null,
     "category": null,
     "relatedMediaType": null,
