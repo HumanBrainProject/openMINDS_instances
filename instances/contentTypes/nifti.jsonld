@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.nifti.1",
     "associatedFileExtension": [".nii"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["NIfTI-1", ""]
   }

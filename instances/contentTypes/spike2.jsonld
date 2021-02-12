@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.spike2.sonpy.son",
     "associatedFileExtension": [".smr"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["CED spike2 files", ""]
   }

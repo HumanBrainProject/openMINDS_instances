@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.sonata.pynn",
     "associatedFileExtension": null,
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["SONATA:PyNN", ""]
   }

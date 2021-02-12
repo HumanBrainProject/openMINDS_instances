@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.neo.ascii.signal",
     "associatedFileExtension": [".txt", ".asc", ".csv", ".tsv,"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Neo AnalogSignals", ""]
   }

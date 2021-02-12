@@ -3,7 +3,7 @@
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "name": "application/pdf",
   "associatedFileExtension": [".pdf"],
-  "category": null,
   "relatedMediaType": "https://www.iana.org/assignments/media-types/application/pdf",
-  "synonym": ["Adobe Portable Document Format", "PDF"]
+  "synonym": ["Adobe Portable Document Format", "PDF"],
+  "specification": "https://www.pdfa.org/resource/iso-32000-2-pdf-2-0/"
 }

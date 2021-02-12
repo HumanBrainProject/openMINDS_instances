@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.neuron-simulator+hoc",
     "associatedFileExtension": [".hoc"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Hoc:NEURON", ""]
   }

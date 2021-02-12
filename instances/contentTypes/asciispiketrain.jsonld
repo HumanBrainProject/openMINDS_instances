@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.neo.ascii.spiketrain",
     "associatedFileExtension": [".txt"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Neo SpikeTrains", ""]
   }

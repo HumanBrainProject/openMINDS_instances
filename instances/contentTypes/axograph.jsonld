@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.axograph",
     "associatedFileExtension": [".axgd", ".axgx"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["AxoGraph", ""]
   }

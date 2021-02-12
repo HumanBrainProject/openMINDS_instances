@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/x-kseg",
     "associatedFileExtension": [".seg"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["KSEG file format", ""]
   }

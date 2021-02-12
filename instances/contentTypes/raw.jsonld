@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "image/x-panasonic-rw",
     "associatedFileExtension": [".raw"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Panasonic RAW file format", ""]
   }

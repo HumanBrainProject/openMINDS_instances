@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.alphaomega-eng",
     "associatedFileExtension": [".map"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["AlphaMap", ""]
   }

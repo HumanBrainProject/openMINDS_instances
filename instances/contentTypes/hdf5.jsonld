@@ -3,7 +3,6 @@
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "name": "application/x-hdf",
   "associatedFileExtension": [".hdf5"],
-  "category": null,
   "relatedMediaType": null,
   "synonym": ["Hierarchical Data Format version 5", "HDF5"]
 }

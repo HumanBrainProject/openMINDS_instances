@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "image/jpeg",
     "associatedFileExtension": [".jpg", ".jpeg", ".jif", ".jfif", ".pjp", ".pjpeg"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Joint Photographic Expert Group", "JPG JPEG"]
   }

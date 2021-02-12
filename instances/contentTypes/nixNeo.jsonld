@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.g-node.nix.neo",
     "associatedFileExtension": [".nix", ".h5"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["NIX:Neo", ""]
   }

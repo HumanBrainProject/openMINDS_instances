@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.plexon",
     "associatedFileExtension": [".plx"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Plexon acquisition system", ""]
   }

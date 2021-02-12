@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.neuralensemble.pynn",
     "associatedFileExtension": [".py"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Python:PyNN", ""]
   }

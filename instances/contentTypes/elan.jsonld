@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.elan",
     "associatedFileExtension": [".eeg"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Elan files", ""]
   }

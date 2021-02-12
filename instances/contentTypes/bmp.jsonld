@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "image/bmp",
     "associatedFileExtension": [".bmp"],
-    "category": null,
     "relatedMediaType": "https://www.iana.org/assignments/media-types/image/bmp",
     "synonym": ["Bitmap image", ""]
   }

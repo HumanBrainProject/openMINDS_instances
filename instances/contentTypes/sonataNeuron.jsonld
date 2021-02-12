@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.sonata.neuron",
     "associatedFileExtension": null,
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["SONATA:NEURON", ""]
   }

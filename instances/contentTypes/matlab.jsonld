@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "text/x-matlab",
     "associatedFileExtension": [".m"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["MATLAB", ""]
   }

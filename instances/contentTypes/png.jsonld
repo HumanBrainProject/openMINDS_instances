@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "image/png",
     "associatedFileExtension": [".png"],
-    "category": null,
     "relatedMediaType": "https://www.iana.org/assignments/media-types/image/png",
     "synonym": ["Portable Network Graphics", "PNG"]
   }

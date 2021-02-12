@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "image/tiff.multichannel",
     "associatedFileExtension": [".tiff", ".tif"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Tagged Image File (Multi channel)", ""]
   }

@@ -3,7 +3,6 @@
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "name": "application/dicom",
   "associatedFileExtension": [".dcm"],
-  "category": null,
   "relatedMediaType": "https://www.iana.org/assignments/media-types/application/dicom",
   "synonym": ["Digital Imaging and Communications in Medicine", "DICOM"]
 }

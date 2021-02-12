@@ -3,7 +3,6 @@
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "name": "application/vnd.sonata.nest",
   "associatedFileExtension": null,
-  "category": null,
   "relatedMediaType": null,
   "synonym": ["SONATA:NEST", ""]
 }

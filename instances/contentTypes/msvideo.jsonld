@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "video/x-msvideo",
     "associatedFileExtension": [".avi"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Audio Video Interleave", "AVI"]
   }

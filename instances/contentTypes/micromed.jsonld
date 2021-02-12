@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.micromedgroup",
     "associatedFileExtension": [".trc"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Micromed files", ""]
   }

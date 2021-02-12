@@ -3,7 +3,6 @@
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "name": "application/x-blender",
   "associatedFileExtension": [".blend"],
-  "category": null,
   "relatedMediaType": null,
   "synonym": ["Blender scene description format"]
 }

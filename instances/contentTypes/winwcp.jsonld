@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.winwcp",
     "associatedFileExtension": [".wcp"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["WinWCP files", ""]
   }

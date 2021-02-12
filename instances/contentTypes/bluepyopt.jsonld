@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.bluebrainproject.bluepyopt",
     "associatedFileExtension": [".zip"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["BluePyOpt", ""]
   }

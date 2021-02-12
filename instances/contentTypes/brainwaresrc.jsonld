@@ -3,7 +3,6 @@
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.brainwaresrc",
     "associatedFileExtension": [".src"],
-    "category": null,
     "relatedMediaType": null,
     "synonym": ["Brainware SRC files", ""]
   }
