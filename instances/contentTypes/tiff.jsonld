@@ -4,5 +4,5 @@
     "name": "image/tiff",
     "associatedFileExtension": [".tiff", ".tif"],
     "relatedMediaType": "https://www.iana.org/assignments/media-types/image/tiff",
-    "synonym": ["Tagged Image File (Tiled)", ""]
+    "synonym": ["Tagged Image File (Tiled)"]
   }

@@ -4,5 +4,5 @@
     "name": "application/vnd.rawbinarysignal",
     "associatedFileExtension": [".raw"],
     "relatedMediaType": null,
-    "synonym": ["Raw binary interleaved compact files", ""]
+    "synonym": ["Raw binary interleaved compact files"]
   }

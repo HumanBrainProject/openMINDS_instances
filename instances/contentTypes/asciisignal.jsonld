@@ -4,5 +4,5 @@
     "name": "application/vnd.neo.ascii.signal",
     "associatedFileExtension": [".txt", ".asc", ".csv", ".tsv,"],
     "relatedMediaType": null,
-    "synonym": ["Neo AnalogSignals", ""]
+    "synonym": ["Neo AnalogSignals"]
   }

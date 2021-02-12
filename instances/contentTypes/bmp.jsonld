@@ -4,5 +4,5 @@
     "name": "image/bmp",
     "associatedFileExtension": [".bmp"],
     "relatedMediaType": "https://www.iana.org/assignments/media-types/image/bmp",
-    "synonym": ["Bitmap image", ""]
+    "synonym": ["Bitmap image"]
   }

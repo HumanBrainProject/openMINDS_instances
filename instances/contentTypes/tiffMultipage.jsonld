@@ -4,5 +4,5 @@
     "name": "image/tiff.multipage",
     "associatedFileExtension": [".tiff", ".tif"],
     "relatedMediaType": null,
-    "synonym": ["Tagged Image File (Multi-page)", ""]
+    "synonym": ["Tagged Image File (Multi-page)"]
   }

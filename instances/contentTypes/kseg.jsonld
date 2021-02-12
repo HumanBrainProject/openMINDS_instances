@@ -4,5 +4,5 @@
     "name": "application/x-kseg",
     "associatedFileExtension": [".seg"],
     "relatedMediaType": null,
-    "synonym": ["KSEG file format", ""]
+    "synonym": ["KSEG file format"]
   }

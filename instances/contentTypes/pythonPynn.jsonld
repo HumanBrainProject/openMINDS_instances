@@ -4,5 +4,5 @@
     "name": "application/vnd.neuralensemble.pynn",
     "associatedFileExtension": [".py"],
     "relatedMediaType": null,
-    "synonym": ["Python:PyNN", ""]
+    "synonym": ["Python:PyNN"]
   }

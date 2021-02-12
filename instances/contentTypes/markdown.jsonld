@@ -4,5 +4,5 @@
     "name": "text/markdown",
     "associatedFileExtension": [".md", ".markdown"],
     "relatedMediaType": "https://www.iana.org/assignments/media-types/text/markdown",
-    "synonym": ["Markdown", ""]
+    "synonym": ["Markdown"]
   }

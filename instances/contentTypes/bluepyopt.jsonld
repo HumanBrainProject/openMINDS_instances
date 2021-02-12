@@ -4,5 +4,5 @@
     "name": "application/vnd.bluebrainproject.bluepyopt",
     "associatedFileExtension": [".zip"],
     "relatedMediaType": null,
-    "synonym": ["BluePyOpt", ""]
+    "synonym": ["BluePyOpt"]
   }

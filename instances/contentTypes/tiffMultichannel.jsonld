@@ -4,5 +4,5 @@
     "name": "image/tiff.multichannel",
     "associatedFileExtension": [".tiff", ".tif"],
     "relatedMediaType": null,
-    "synonym": ["Tagged Image File (Multi channel)", ""]
+    "synonym": ["Tagged Image File (Multi channel)"]
   }

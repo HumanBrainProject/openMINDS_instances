@@ -4,5 +4,5 @@
     "name": "application/vnd.moleculardevices.axon",
     "associatedFileExtension": [".abf"],
     "relatedMediaType": null,
-    "synonym": ["Axon™ Binary File format", ""]
+    "synonym": ["Axon™ Binary File format"]
   }

@@ -4,5 +4,5 @@
     "name": "application/vnd.pickle",
     "associatedFileExtension": [".pkl", ".pickle"],
     "relatedMediaType": null,
-    "synonym": ["Python pickle files", ""]
+    "synonym": ["Python pickle files"]
   }

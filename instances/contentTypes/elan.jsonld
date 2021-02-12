@@ -4,5 +4,5 @@
     "name": "application/vnd.elan",
     "associatedFileExtension": [".eeg"],
     "relatedMediaType": null,
-    "synonym": ["Elan files", ""]
+    "synonym": ["Elan files"]
   }

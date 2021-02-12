@@ -4,5 +4,5 @@
     "name": "application/vnd.stimfit",
     "associatedFileExtension": [".abf", ".abf2", ".atf", ".axgx", ".axgd", ".cfs", ".heka", ".hdf5"],
     "relatedMediaType": null,
-    "synonym": ["Python stfio", ""]
+    "synonym": ["Python stfio"]
   }

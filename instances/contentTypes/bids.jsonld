@@ -4,5 +4,5 @@
     "name": "application/vnd.bids",
     "associatedFileExtension": null,
     "relatedMediaType": null,
-    "synonym": ["BIDS", ""]
+    "synonym": ["BIDS"]
   }

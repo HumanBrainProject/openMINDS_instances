@@ -4,5 +4,5 @@
     "name": "application/vnd.neo.ascii.spiketrain",
     "associatedFileExtension": [".txt"],
     "relatedMediaType": null,
-    "synonym": ["Neo SpikeTrains", ""]
+    "synonym": ["Neo SpikeTrains"]
   }

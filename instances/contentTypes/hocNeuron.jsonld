@@ -4,5 +4,5 @@
     "name": "application/vnd.neuron-simulator+hoc",
     "associatedFileExtension": [".hoc"],
     "relatedMediaType": null,
-    "synonym": ["Hoc:NEURON", ""]
+    "synonym": ["Hoc:NEURON"]
   }

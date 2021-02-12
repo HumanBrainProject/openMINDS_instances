@@ -4,5 +4,5 @@
     "name": "application/vnd.neuralynx",
     "associatedFileExtension": [".ncs", ".nev", ".nse", ".ntt"],
     "relatedMediaType": null,
-    "synonym": ["Neuralynx files", ""]
+    "synonym": ["Neuralynx files"]
   }

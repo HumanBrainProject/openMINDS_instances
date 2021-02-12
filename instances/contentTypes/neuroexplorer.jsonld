@@ -4,5 +4,5 @@
     "name": "application/vnd.neuroexplorer.plexon",
     "associatedFileExtension": [".nex"],
     "relatedMediaType": null,
-    "synonym": ["NeuroExplorer files", ""]
+    "synonym": ["NeuroExplorer files"]
   }

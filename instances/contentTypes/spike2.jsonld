@@ -4,5 +4,5 @@
     "name": "application/vnd.spike2.sonpy.son",
     "associatedFileExtension": [".smr"],
     "relatedMediaType": null,
-    "synonym": ["CED spike2 files", ""]
+    "synonym": ["CED spike2 files"]
   }

@@ -4,5 +4,5 @@
     "name": "application/vnd.sonata.pynn",
     "associatedFileExtension": null,
     "relatedMediaType": null,
-    "synonym": ["SONATA:PyNN", ""]
+    "synonym": ["SONATA:PyNN"]
   }

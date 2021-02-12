@@ -4,5 +4,5 @@
     "name": "application/vnd.nifti.2",
     "associatedFileExtension": [".nii"],
     "relatedMediaType": null,
-    "synonym": ["NIfTI-2", ""]
+    "synonym": ["NIfTI-2"]
   }

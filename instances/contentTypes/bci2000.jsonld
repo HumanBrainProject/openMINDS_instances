@@ -4,5 +4,5 @@
     "name": "application/vnd.bci2000",
     "associatedFileExtension": [".dat"],
     "relatedMediaType": null,
-    "synonym": ["BCI2000 File Format", ""]
+    "synonym": ["BCI2000 File Format"]
   }
