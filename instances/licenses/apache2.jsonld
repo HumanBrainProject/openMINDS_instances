@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/licenses/apache2.0",
+  "@type": "https://openminds.ebrains.eu/core/License",
+  "fullName": "Apache License, Version 2.0",
+  "shortName": "Apache-2.0",
+  "legalCode": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+  "deed": "https://www.apache.org/licenses/LICENSE-2.0"
+}
