@@ -1,0 +1,7 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/digitalIdentifierSchema/grid",
+  "@type": "https://openminds.ebrains.eu/core/DigitalIdentifierSchema",
+  "type": "GRID",
+  "IRI": "https://www.grid.ac/",
+  "identifierPattern": null
+}
