@@ -1,0 +1,7 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/digitalIdentifierSchema/isni",
+  "@type": "https://openminds.ebrains.eu/core/DigitalIdentifierSchema",
+  "type": "ISNI",
+  "IRI": "https://isni.org/",
+  "identifierPattern": null
+}
