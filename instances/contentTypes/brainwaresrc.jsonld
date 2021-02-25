@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brainwaresrc",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.brainwaresrc",
+    "associatedFileExtension": [".src"],
+    "relatedMediaType": null,
+    "synonym": ["Brainware SRC files"]
+  }

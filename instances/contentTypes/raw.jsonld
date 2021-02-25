@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/x-panasonic-rw",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "image/x-panasonic-rw",
+    "associatedFileExtension": [".raw"],
+    "relatedMediaType": null,
+    "synonym": ["Panasonic RAW file format"]
+  }

@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bci2000",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.bci2000",
+    "associatedFileExtension": [".dat"],
+    "relatedMediaType": null,
+    "synonym": ["BCI2000 File Format"]
+  }

@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/video/x-msvideo",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "video/x-msvideo",
+    "associatedFileExtension": [".avi"],
+    "relatedMediaType": null,
+    "synonym": ["Audio Video Interleave", "AVI"]
+  }

@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/x-kseg",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/x-kseg",
+    "associatedFileExtension": [".seg"],
+    "relatedMediaType": null,
+    "synonym": ["KSEG file format"]
+  }

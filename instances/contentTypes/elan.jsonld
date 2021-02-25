@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.elan",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.elan",
+    "associatedFileExtension": [".eeg"],
+    "relatedMediaType": null,
+    "synonym": ["Elan files"]
+  }

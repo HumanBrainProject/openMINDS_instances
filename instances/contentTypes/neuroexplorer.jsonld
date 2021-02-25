@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroexplorer.plexon",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.neuroexplorer.plexon",
+    "associatedFileExtension": [".nex"],
+    "relatedMediaType": null,
+    "synonym": ["NeuroExplorer files"]
+  }

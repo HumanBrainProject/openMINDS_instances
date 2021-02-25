@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brainwaredam",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.brainwaredam",
+    "associatedFileExtension": [".dam"],
+    "relatedMediaType": null,
+    "synonym": ["Brainware DAM files"]
+  }

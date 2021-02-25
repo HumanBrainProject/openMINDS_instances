@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.intan.technology",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.intan.technology",
+    "associatedFileExtension": [".rhd", ".rhs"],
+    "relatedMediaType": null,
+    "synonym": ["Intan tech rhd and rhs files", "RHD RHS"]
+  }

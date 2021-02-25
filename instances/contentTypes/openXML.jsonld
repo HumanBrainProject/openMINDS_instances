@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "associatedFileExtension": [".docx"],
+    "relatedMediaType": "https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "synonym": ["Microsoft Word (OpenXML)", "DOCX"]
+  }

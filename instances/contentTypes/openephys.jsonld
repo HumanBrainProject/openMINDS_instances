@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.openephys",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.openephys",
+    "associatedFileExtension": null,
+    "relatedMediaType": null,
+    "synonym": ["Open Ephys Format"]
+  }

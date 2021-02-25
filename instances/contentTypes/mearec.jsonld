@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.mearec",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.mearec",
+    "associatedFileExtension": [".h5"],
+    "relatedMediaType": null,
+    "synonym": ["Multi-Electrode-Arrays", "MEA"]
+  }

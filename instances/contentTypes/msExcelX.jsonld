@@ -3,7 +3,6 @@
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "name": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
   "associatedFileExtension": [".xlsx"],
-  "category": null,
   "relatedMediaType": "https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
   "synonym": ["Microsoft Excel (Open XML)", "XLSX"]
 }

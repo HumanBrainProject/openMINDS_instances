@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.klustakwik",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.klustakwik",
+    "associatedFileExtension": null,
+    "relatedMediaType": null,
+    "synonym": ["KlustaKwik Format"]
+  }

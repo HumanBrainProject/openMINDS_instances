@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/text/plain",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "text/plain",
+    "associatedFileExtension": [".txt"],
+    "relatedMediaType": null,
+    "synonym": ["plain text file format"]
+  }

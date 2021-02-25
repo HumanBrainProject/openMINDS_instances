@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.winedr",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.winedr",
+    "associatedFileExtension": [".edr"],
+    "relatedMediaType": null,
+    "synonym": ["WinEdr files", "EDR"]
+  }

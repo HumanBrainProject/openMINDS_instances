@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/video/mp4",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "video/mp4",
+    "associatedFileExtension": [".mp4"],
+    "relatedMediaType": "https://www.iana.org/assignments/media-types/video/mp4",
+    "synonym": ["Moving Picture Experts Group 4 video file", "MPEG-4"]
+  }

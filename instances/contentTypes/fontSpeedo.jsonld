@@ -3,7 +3,6 @@
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "name": "application/x-font-speedo",
   "associatedFileExtension": [".spd"],
-  "category": null,
   "relatedMediaType": null,
   "synonym": ["Speedo fonts"]
 }

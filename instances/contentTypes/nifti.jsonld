@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nifti.1",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.nifti.1",
+    "associatedFileExtension": [".nii"],
+    "relatedMediaType": null,
+    "synonym": ["NIfTI-1"]
+  }

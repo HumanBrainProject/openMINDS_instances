@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.spikeglx.system",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.spikeglx.system",
+    "associatedFileExtension": null,
+    "relatedMediaType": null,
+    "synonym": ["SpikeGLX system"]
+  }

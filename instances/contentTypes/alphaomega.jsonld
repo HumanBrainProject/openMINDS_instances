@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.alphaomega-eng",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.alphaomega-eng",
+    "associatedFileExtension": [".map"],
+    "relatedMediaType": null,
+    "synonym": ["AlphaMap"]
+  }

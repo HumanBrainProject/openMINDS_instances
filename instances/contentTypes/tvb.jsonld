@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.thevirtualbrain",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.thevirtualbrain",
+    "associatedFileExtension": null,
+    "relatedMediaType": null,
+    "synonym": ["TVB"]
+  }

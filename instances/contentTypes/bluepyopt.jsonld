@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bluebrainproject.bluepyopt",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.bluebrainproject.bluepyopt",
+    "associatedFileExtension": [".zip"],
+    "relatedMediaType": null,
+    "synonym": ["BluePyOpt"]
+  }

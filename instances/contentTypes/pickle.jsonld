@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.pickle",
+    "@type": "https://openminds.ebrains.eu/core/ContentType",
+    "name": "application/vnd.pickle",
+    "associatedFileExtension": [".pkl", ".pickle"],
+    "relatedMediaType": null,
+    "synonym": ["Python pickle files"]
+  }
