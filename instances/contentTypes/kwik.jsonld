@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.kwik",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.kwik",
-    "associatedFileExtension": [".kwik"],
+    "fileExtension": [".kwik"],
     "relatedMediaType": null,
     "synonym": ["Kwik Format"]
   }
