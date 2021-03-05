@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuron-simulator+python",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.neuron-simulator+python",
-    "associatedFileExtension": [".py"],
+    "fileExtension": [".py"],
     "relatedMediaType": null,
     "synonym": ["Python:NEURON"]
   }
