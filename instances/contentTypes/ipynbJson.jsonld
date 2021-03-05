@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/x-ipynb+json",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "name": "application/x-ipynb+json",
-  "associatedFileExtension": [".ipynb"],
+  "fileExtension": [".ipynb"],
   "relatedMediaType": null,
   "synonym": ["Jupyter Notebook", "IPYNB"]
 }
