@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "name": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-  "associatedFileExtension": [".xlsx"],
+  "fileExtension": [".xlsx"],
   "relatedMediaType": "https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
   "synonym": ["Microsoft Excel (Open XML)", "XLSX"]
 }
