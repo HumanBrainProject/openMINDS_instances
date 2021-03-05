@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.igorpro",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.igorpro",
-    "associatedFileExtension": [".ibw", ".pxp"],
+    "fileExtension": [".ibw", ".pxp"],
     "relatedMediaType": null,
     "synonym": ["Igor Binary Waves, Packed Experiment files"]
   }
