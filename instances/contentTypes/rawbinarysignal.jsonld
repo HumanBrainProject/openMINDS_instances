@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.rawbinarysignal",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.rawbinarysignal",
-    "associatedFileExtension": [".raw"],
+    "fileExtension": [".raw"],
     "relatedMediaType": null,
     "synonym": ["Raw binary interleaved compact files"]
   }
