@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/jpeg",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "image/jpeg",
-    "associatedFileExtension": [".jpg", ".jpeg", ".jif", ".jfif", ".pjp", ".pjpeg"],
+    "fileExtension": [".jpg", ".jpeg", ".jif", ".jfif", ".pjp", ".pjpeg"],
     "relatedMediaType": null,
     "synonym": ["Joint Photographic Expert Group", "JPG JPEG"]
   }
