@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blk",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.blk",
-    "associatedFileExtension": [".blk"],
+    "fileExtension": [".blk"],
     "relatedMediaType": null,
     "synonym": ["BLK File"]
   }
