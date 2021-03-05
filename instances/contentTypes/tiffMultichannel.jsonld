@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/tiff.multichannel",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "image/tiff.multichannel",
-    "associatedFileExtension": [".tiff", ".tif"],
+    "fileExtension": [".tiff", ".tif"],
     "relatedMediaType": null,
     "synonym": ["Tagged Image File (Multi channel)"]
   }
