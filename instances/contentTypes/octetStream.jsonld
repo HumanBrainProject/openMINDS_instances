@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/octet-stream",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "name": "application/octet-stream",
-  "associatedFileExtension": [".bin"],
+  "fileExtension": [".bin"],
   "relatedMediaType": "https://www.iana.org/assignments/media-types/application/octet-stream",
   "synonym": ["binary format", "BIN"]
 }
