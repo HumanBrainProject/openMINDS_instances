@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/text/x-matlab",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "text/x-matlab",
-    "associatedFileExtension": [".m"],
+    "fileExtension": [".m"],
     "relatedMediaType": null,
     "synonym": ["MATLAB"]
   }
