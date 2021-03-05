@@ -4,5 +4,5 @@
   "fullName": "Creative Commons Attribution-ShareAlike 4.0 International",
   "shortName": "CC BY-SA 4.0",
   "legalCode": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
-  "deed": "https://creativecommons.org/licenses/by-sa/4.0/"
+  "webpage": ["https://creativecommons.org/licenses/by-sa/4.0/", "https://creativecommons.org/"]
 }
