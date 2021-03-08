@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.moleculardevices.axon",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.moleculardevices.axon",
-    "associatedFileExtension": [".abf"],
+    "fileExtension": [".abf"],
     "relatedMediaType": null,
     "synonym": ["Axon™ Binary File format"]
   }

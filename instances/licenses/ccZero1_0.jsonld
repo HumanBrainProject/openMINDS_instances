@@ -4,5 +4,5 @@
   "fullName": "Creative Commons Zero 1.0 Universal",
   "shortName": "CC0 1.0",
   "legalCode": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
-  "deed": "https://creativecommons.org/publicdomain/zero/1.0/"
+  "webpage": ["https://creativecommons.org/publicdomain/zero/1.0/", "https://creativecommons.org/"]  
 }

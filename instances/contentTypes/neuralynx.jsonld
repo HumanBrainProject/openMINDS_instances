@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuralynx",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.neuralynx",
-    "associatedFileExtension": [".ncs", ".nev", ".nse", ".ntt"],
+    "fileExtension": [".ncs", ".nev", ".nse", ".ntt"],
     "relatedMediaType": null,
     "synonym": ["Neuralynx files"]
   }

@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/x-eps",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "image/x-eps",
-    "associatedFileExtension": [".eps"],
+    "fileExtension": [".eps"],
     "relatedMediaType": null,
     "synonym": ["Encapsulated PostScript", "EPS"]
   }

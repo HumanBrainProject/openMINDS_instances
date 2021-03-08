@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/5-mat",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/5-mat",
-    "associatedFileExtension": [".mat"],
+    "fileExtension": [".mat"],
     "relatedMediaType": null,
     "synonym": ["Level 5 MAT-file format", "MAT"]
   }

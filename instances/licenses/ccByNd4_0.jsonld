@@ -3,6 +3,6 @@
   "@type": "https://openminds.ebrains.eu/core/License",
   "fullName": "Creative Commons Attribution-NoDerivatives 4.0 International",
   "shortName": "CC BY-ND 4.0",
-  "legalCode": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
-  "deed": "https://creativecommons.org/licenses/by-nd/4.0/legalcode"
+  "legalCode": "https://creativecommons.org/licenses/by-nd/4.0/legalcode",
+  "webpage": ["https://creativecommons.org/licenses/by-nd/4.0/", "https://creativecommons.org/"]
 }

@@ -2,7 +2,7 @@
     "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.spike2.sonpy.son",
     "@type": "https://openminds.ebrains.eu/core/ContentType",
     "name": "application/vnd.spike2.sonpy.son",
-    "associatedFileExtension": [".smr"],
+    "fileExtension": [".smr"],
     "relatedMediaType": null,
     "synonym": ["CED spike2 files"]
   }
