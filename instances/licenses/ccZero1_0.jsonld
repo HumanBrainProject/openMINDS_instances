@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/licenses/ccZero1.0",
   "@type": "https://openminds.ebrains.eu/core/License",
   "fullName": "Creative Commons Zero 1.0 Universal",
-  "shortName": "CC0 1.0",
   "legalCode": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
-  "webpage": ["https://creativecommons.org/publicdomain/zero/1.0/", "https://creativecommons.org/"]  
+  "shortName": "CC0 1.0",
+  "webpage": ["https://creativecommons.org/publicdomain/zero/1.0", "https://spdx.org/licenses/CC0-1.0.html"]
 }
