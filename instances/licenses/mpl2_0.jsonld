@@ -4,5 +4,9 @@
   "fullName": "Mozilla Public License 2.0",
   "legalCode": "https://www.mozilla.org/MPL/2.0/",
   "shortName": "MPL-2.0",
-  "webpage": ["https://www.mozilla.org/en-US/MPL/", "https://spdx.org/licenses/MPL-2.0.html", "https://opensource.org/licenses/MPL-2.0"]
+  "webpage": [
+    "https://www.mozilla.org/MPL/", 
+    "https://spdx.org/licenses/MPL-2.0.html", 
+    "https://opensource.org/licenses/MPL-2.0"
+  ]
 }
