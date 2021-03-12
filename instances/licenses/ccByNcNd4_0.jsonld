@@ -4,5 +4,8 @@
   "fullName": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
   "legalCode": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
   "shortName": "CC BY-NC-ND 4.0",
-  "webpage": ["https://creativecommons.org/licenses/by-nc-nd/4.0", "https://spdx.org/licenses/CC-BY-NC-ND-4.0.html"]
+  "webpage": [
+    "https://creativecommons.org/licenses/by-nc-nd/4.0", 
+    "https://spdx.org/licenses/CC-BY-NC-ND-4.0.html"
+  ]
 }
