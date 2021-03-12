@@ -4,5 +4,5 @@
   "fullName": "GNU General Public License v2.0 or later",
   "legalCode": "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
   "shortName": "GPL-2.0-or-later",
-  "webpage": "https://spdx.org/licenses/GPL-2.0-or-later.html"
+  "webpage": ["https://spdx.org/licenses/GPL-2.0-or-later.html"]
 }
