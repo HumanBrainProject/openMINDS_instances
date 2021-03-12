@@ -2,7 +2,10 @@
   "@id": "https://openminds.ebrains.eu/instances/licenses/ccByNd4.0",
   "@type": "https://openminds.ebrains.eu/core/License",
   "fullName": "Creative Commons Attribution-NoDerivatives 4.0 International",
-  "shortName": "CC BY-ND 4.0",
   "legalCode": "https://creativecommons.org/licenses/by-nd/4.0/legalcode",
-  "webpage": ["https://creativecommons.org/licenses/by-nd/4.0/", "https://creativecommons.org/"]
+  "shortName": "CC BY-ND 4.0",
+  "webpage": [
+    "https://creativecommons.org/licenses/by-nd/4.0", 
+    "https://spdx.org/licenses/CC-BY-ND-4.0.html"
+  ]
 }
