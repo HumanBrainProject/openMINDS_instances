@@ -1,8 +1,8 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/cellPopulationManipulation",
+  "@id": "https://openminds.ebrains.eu/instances/modality/cellPopulationManipulation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
   "name": "cell population manipulation",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739398"
 }

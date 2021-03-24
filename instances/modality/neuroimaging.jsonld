@@ -1,8 +1,8 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/neuroimaging",
+  "@id": "https://openminds.ebrains.eu/instances/modality/neuroimaging",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
   "name": "neuroimaging",
-  "definition": null,
+  "definition": "Techniques concerned with imaging directly or indirectly the structure, function, or pharmacology of the nervous system.",
   "description": null,
-  "ontologyIdentifier": null
+  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0741206"
 }
