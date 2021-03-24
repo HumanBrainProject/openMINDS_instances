@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/ethicsAssessment/EUcompliant",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/ethicsAssessment/EUCompliantSensitive",
   "@type": "https://openminds.ebrains.eu/controlledTerms/EthicsAssessment",
-  "name": "EU compliant",
+  "name": "EU compliant, sensitive",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

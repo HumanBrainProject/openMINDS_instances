@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/semanticDataType/rawData",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SemanticDataType",
+  "name": "raw data",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
