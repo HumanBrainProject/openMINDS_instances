@@ -1,8 +1,8 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/developmentalApproach",
+  "@id": "https://openminds.ebrains.eu/instances/modality/developmentalApproach",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
   "name": "developmental approach",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739412"
 }

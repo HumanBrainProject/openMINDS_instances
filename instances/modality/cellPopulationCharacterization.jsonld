@@ -1,8 +1,8 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/cellPopulationCharacterization",
+  "@id": "https://openminds.ebrains.eu/instances/modality/cellPopulationCharacterization",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
   "name": "cell population characterization",
-  "definition": null,
+  "definition": "Techniques concerned with determining biochemical, molecular and/or physiological characteristics of cell populations as opposed to individual cells.",
   "description": null,
-  "ontologyIdentifier": null
+  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739408"
 }
