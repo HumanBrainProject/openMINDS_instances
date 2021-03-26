@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/species/musMusculus",
+  "@id": "https://openminds.ebrains.eu/instances/species/musMusculus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
   "name": "Mus musculus",
   "definition": "The species *Mus musculus* (house mouse) belongs to the family of *muridae* (murids).",

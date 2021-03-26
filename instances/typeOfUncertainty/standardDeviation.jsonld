@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/typeOfUncertainty/standardDeviation",
+  "@id": "https://openminds.ebrains.eu/instances/typeOfUncertainty/standardDeviation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty",
   "name": "standard deviation",
   "definition": null,

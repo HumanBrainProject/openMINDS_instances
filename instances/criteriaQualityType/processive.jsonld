@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/criteriaQualityType/processive",
+  "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/processive",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType",
   "name": "processive",
   "definition": null,

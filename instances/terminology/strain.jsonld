@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/strain",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/strain",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
   "name": "strain",
   "definition": null,

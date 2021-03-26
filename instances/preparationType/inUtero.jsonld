@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/preparationType/inUtero",
+  "@id": "https://openminds.ebrains.eu/instances/preparationType/inUtero",
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
   "name": "in utero",
   "definition": "Something happening in, within, or while inside the uterus.",

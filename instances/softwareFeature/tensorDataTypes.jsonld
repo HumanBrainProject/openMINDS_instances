@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/tensorDataTypes",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/tensorDataTypes",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "tensor data types",
   "definition": null,

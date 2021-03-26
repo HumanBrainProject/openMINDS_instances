@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/programmingLanguage/R",
+  "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/R",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
   "name": "R",
   "definition": null,

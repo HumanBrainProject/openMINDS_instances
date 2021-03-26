@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/unitOfMeasurement/micrometer",
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/micrometer",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
   "name": "micrometer",
   "definition": null,

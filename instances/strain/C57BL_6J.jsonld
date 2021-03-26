@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/strain/C57BL_6J",
+  "@id": "https://openminds.ebrains.eu/instances/strain/C57BL_6J",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
   "name": "C57BL/6J",
   "definition": "The C57BL/6J strain is an inbred mouse breed from the Jackson Laboratory.",

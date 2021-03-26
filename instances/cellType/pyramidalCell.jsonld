@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/cellType/pyramidalCell",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/pyramidalCell",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "name": "pyramidal cell",
   "definition": null,

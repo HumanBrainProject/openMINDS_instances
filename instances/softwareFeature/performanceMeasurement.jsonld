@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/performanceMeasurement",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/performanceMeasurement",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "performance measurement",
   "definition": null,

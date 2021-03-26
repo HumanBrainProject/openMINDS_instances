@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingDevice/desktop",
+  "@id": "https://openminds.ebrains.eu/instances/operatingDevice/desktop",
   "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingDevice",
   "name": "desktop",
   "definition": null,

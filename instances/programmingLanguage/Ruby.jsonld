@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/programmingLanguage/Ruby",
+  "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/Ruby",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
   "name": "Ruby",
   "definition": null,

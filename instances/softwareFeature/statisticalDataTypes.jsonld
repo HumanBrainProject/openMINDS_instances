@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/statisticalDataTypes",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/statisticalDataTypes",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "statistical data types",
   "definition": null,

@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/softwareFeature",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/softwareFeature",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
   "name": "software feature",
   "definition": null,

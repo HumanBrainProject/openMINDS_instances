@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/unitOfMeasurement/liter",
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/liter",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
   "name": "liter",
   "definition": null,

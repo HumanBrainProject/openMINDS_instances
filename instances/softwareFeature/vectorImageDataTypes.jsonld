@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/vectorImageDataTypes",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/vectorImageDataTypes",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "vector image data types",
   "definition": null,

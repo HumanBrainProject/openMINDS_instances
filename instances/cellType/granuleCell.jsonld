@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/cellType/granuleCell",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/granuleCell",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "name": "granule cell",
   "definition": null,

@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/fileUsageRole/logo",
+  "@id": "https://openminds.ebrains.eu/instances/fileUsageRole/logo",
   "@type": "https://openminds.ebrains.eu/controlledTerms/FileUsageRole",
   "name": "logo",
   "definition": "A logo is a graphic used to aid and promote public identification and recognition.used to aid and promote public identification and recognition. ",

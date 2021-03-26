@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/ageCategory",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/ageCategory",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
   "name": "age category",
   "definition": "The age category describes a specific spatiotemporal part of the life cycle of an organism.",

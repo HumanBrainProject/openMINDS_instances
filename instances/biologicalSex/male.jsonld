@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/biologicalSex/male",
+  "@id": "https://openminds.ebrains.eu/instances/biologicalSex/male",
   "@type": "https://openminds.ebrains.eu/controlledTerms/BiologicalSex",
   "name": "male",
   "definition": "Biological sex that produces sperm cells (spermatozoa).",

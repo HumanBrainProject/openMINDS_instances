@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/ageCategory/infant",
+  "@id": "https://openminds.ebrains.eu/instances/ageCategory/infant",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
   "name": "infant",
   "definition": "'Infant' categorizes the life cycle stage of mammals (animal or human) that follows the neonate stage and ends at weaning.",

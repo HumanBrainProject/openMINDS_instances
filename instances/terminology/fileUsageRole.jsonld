@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/fileUsageRole",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/fileUsageRole",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
   "name": "file usage role",
   "definition": null,

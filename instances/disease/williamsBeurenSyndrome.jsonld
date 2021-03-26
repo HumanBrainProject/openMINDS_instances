@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/williamsBeurenSyndrome",
+  "@id": "https://openminds.ebrains.eu/instances/disease/williamsBeurenSyndrome",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
   "name": "Williams-Beuren syndrome",
   "definition": null,

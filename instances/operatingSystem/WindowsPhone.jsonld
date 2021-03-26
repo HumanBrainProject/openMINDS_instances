@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingSystem/WindowsPhone",
+  "@id": "https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone",
   "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingSystem",
   "name": "Windows Phone",
   "definition": null,

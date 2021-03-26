@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingSystem/Android",
+  "@id": "https://openminds.ebrains.eu/instances/operatingSystem/Android",
   "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingSystem",
   "name": "Android",
   "definition": null,

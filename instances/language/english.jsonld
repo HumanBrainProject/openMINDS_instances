@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/language/english",
+  "@id": "https://openminds.ebrains.eu/instances/language/english",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
   "name": "English",
   "definition": null,

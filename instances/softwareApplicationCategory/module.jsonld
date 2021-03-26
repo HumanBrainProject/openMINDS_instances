@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareApplicationCategory/module",
+  "@id": "https://openminds.ebrains.eu/instances/softwareApplicationCategory/module",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory",
   "name": "module",
   "definition": null,

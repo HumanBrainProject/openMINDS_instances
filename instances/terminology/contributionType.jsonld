@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/contributionType",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/contributionType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
   "name": "contribution type",
   "definition": null,

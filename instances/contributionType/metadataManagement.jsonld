@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/contributionType/metadataManagment",
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/metadataManagment",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
   "name": "metadata managment",
   "definition": null,

@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareApplicationCategory/notebook",
+  "@id": "https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory",
   "name": "notebook",
   "definition": null,

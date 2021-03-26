@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/metadataDataTypes",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/metadataDataTypes",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "metadata data types",
   "definition": null,

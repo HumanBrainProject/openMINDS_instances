@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingSystem/platformIndependent",
+  "@id": "https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent",
   "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingSystem",
   "name": "platform independent",
   "definition": null,

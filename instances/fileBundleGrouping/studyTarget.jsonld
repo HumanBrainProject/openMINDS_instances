@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/fileBundleGrouping/studyTarget",
+  "@id": "https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget",
   "@type": "https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping",
   "name": "study target",
   "definition": null,

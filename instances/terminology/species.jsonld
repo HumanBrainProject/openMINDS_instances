@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/species",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/species",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
   "name": "species",
   "definition": null,

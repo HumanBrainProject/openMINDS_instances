@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/programmingLanguage/MATLAB",
+  "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/MATLAB",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
   "name": "MATLAB",
   "definition": null,

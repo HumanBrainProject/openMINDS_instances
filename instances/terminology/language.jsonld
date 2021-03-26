@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/language",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/language",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
   "name": "language",
   "definition": null,

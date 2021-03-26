@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/ageCategory/adult",
+  "@id": "https://openminds.ebrains.eu/instances/ageCategory/adult",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
   "name": "adult",
   "definition": "'Adult' categorizes the life cycle stage of an animal or human that reached sexual maturity.",

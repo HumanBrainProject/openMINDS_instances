@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/timeSeriesDataTypes",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/timeSeriesDataTypes",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "time series data types",
   "definition": null,

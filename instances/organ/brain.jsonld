@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/organ/brain",
+  "@id": "https://openminds.ebrains.eu/instances/organ/brain",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Organ",
   "name": "brain",
   "definition": null,

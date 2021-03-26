@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/criteriaQualityType/asserted",
+  "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/asserted",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType",
   "name": "asserted",
   "definition": null,

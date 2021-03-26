@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/typeOfUncertainty/standardError",
+  "@id": "https://openminds.ebrains.eu/instances/typeOfUncertainty/standardError",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty",
   "name": "standard error",
   "definition": null,

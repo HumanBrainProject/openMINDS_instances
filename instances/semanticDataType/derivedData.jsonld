@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/semanticDataType/derivedData",
+  "@id": "https://openminds.ebrains.eu/instances/semanticDataType/derivedData",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SemanticDataType",
   "name": "derived data",
   "definition": null,

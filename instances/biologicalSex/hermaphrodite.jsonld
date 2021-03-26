@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/biologicalSex/hermaphrodite",
+  "@id": "https://openminds.ebrains.eu/instances/biologicalSex/hermaphrodite",
   "@type": "https://openminds.ebrains.eu/controlledTerms/BiologicalSex",
   "name": "hermaphrodite",
   "definition": "Biological sex with both male and female reproductive organs.", 

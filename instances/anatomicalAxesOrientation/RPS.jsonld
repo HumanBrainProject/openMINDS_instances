@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/RPS",
+  "@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RPS",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
   "name": "RPS",
   "definition": "X, Y, Z axes are oriented towards right, posterior and superior, respectively.",

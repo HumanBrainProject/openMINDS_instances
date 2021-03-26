@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/unitOfMeasurement/gram",
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/gram",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
   "name": "gram",
   "definition": null,

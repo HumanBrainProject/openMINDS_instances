@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/productAccessibility/restrictedAccess",
+  "@id": "https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAccessibility",
   "name": "restricted access",
   "definition": "With 'restricted access' selected, metadata are released, but data remain on an access restricted server.",

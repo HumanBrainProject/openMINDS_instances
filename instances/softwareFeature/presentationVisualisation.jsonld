@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/presentationVisualisation",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/presentationVisualisation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "presentation visualisation",
   "definition": null,

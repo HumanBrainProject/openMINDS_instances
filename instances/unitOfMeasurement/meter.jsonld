@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/unitOfMeasurement/meter",
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/meter",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
   "name": "meter",
   "definition": null,

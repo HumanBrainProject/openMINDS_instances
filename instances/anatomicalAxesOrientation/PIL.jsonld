@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/PIL",
+  "@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PIL",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
   "name": "PIL",
   "definition": "X, Y, Z axes are oriented towards posterior, inferior and left, respectively.",

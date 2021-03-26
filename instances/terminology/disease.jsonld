@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/disease",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/disease",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
   "name": "disease",
   "definition": null,

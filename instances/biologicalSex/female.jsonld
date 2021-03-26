@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/biologicalSex/female",
+  "@id": "https://openminds.ebrains.eu/instances/biologicalSex/female",
   "@type": "https://openminds.ebrains.eu/controlledTerms/BiologicalSex",
   "name": "female",
   "definition": "Biological sex that produces egg cells (ova).",

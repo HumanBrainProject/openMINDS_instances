@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/alzheimersDisease",
+  "@id": "https://openminds.ebrains.eu/instances/disease/alzheimersDisease",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
   "name": "Alzheimer's disease",
   "definition": null,

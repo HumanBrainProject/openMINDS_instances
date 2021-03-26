@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/strain/BALB_c.jsonld",
+  "@id": "https://openminds.ebrains.eu/instances/strain/BALB_c.jsonld",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
   "name": "BALB/c",
   "definition": "BALB/c is an inbred breed of albino mouse, short for Bagg’s albino.",

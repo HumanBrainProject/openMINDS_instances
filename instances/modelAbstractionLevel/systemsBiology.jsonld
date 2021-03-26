@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modelAbstractionLevel/systemsBiology",
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
   "name": "systems biology",
   "definition": null,

@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/modelAbstractionLevel",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/modelAbstractionLevel",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
   "name": "model abstraction level",
   "definition": null,

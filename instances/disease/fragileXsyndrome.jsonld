@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/fragileXsyndrome",
+  "@id": "https://openminds.ebrains.eu/instances/disease/fragileXsyndrome",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
   "name": "fragile X syndrome",
   "definition": null,

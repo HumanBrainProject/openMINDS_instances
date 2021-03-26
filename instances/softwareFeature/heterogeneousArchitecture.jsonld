@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/heterogeneousArchitecture",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/heterogeneousArchitecture",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "heterogeneous architecture",
   "definition": null,

@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/matrixDataTypes",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/matrixDataTypes",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "matrix data types",
   "definition": null,

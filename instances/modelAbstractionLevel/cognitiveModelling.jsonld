@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modelAbstractionLevel/cognitiveModelling",
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/cognitiveModelling",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
   "name": "cognitive modelling",
   "definition": null,

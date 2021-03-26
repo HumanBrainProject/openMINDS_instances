@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/ageCategory/lateAdult",
+  "@id": "https://openminds.ebrains.eu/instances/ageCategory/lateAdult",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
   "name": "late adult",
   "definition": "'Late adult' categorizes the life cycle stage of an animal or human that follows the prime adult stage.",

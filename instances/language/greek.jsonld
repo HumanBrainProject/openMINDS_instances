@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/language/greek",
+  "@id": "https://openminds.ebrains.eu/instances/language/greek",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
   "name": "Greek",
   "definition": null,

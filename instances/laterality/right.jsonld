@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/laterality/right",
+  "@id": "https://openminds.ebrains.eu/instances/laterality/right",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Laterality",
   "name": "right",
   "definition": null,

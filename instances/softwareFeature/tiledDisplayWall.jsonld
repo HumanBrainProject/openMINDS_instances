@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/tiledDisplayWall",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/tiledDisplayWall",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "tiled display wall",
   "definition": null,

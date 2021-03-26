@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/profiling",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/profiling",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "profiling",
   "definition": null,

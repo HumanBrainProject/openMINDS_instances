@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareApplicationCategory/application",
+  "@id": "https://openminds.ebrains.eu/instances/softwareApplicationCategory/application",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory",
   "name": "application",
   "definition": null,

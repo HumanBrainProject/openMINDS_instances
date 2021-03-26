@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/autismSpectrumDisorder",
+  "@id": "https://openminds.ebrains.eu/instances/disease/autismSpectrumDisorder",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
   "name": "autism sprectrum disorder",
   "definition": null,

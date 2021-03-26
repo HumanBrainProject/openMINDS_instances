@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/species/mustelaPutorius",
+  "@id": "https://openminds.ebrains.eu/instances/species/mustelaPutorius",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
   "name": "Mustela putorius",
   "definition": "The species *Mustela putorius* (European polecat) belongs to the family of *mustelidae* (mustelids).",

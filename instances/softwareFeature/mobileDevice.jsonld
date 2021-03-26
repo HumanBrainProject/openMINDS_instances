@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/mobileDevice",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/mobileDevice",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "mobile device",
   "definition": null,

@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/LSP",
+  "@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LSP",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
   "name": "LSP",
   "definition": "X, Y, Z axes are oriented towards left, superior and posterior, respectively.",

@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/species/rattusNorvegicus",
+  "@id": "https://openminds.ebrains.eu/instances/species/rattusNorvegicus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
   "name": "Rattus norvegicus",
   "definition": "The species *Rattus norvegicus* (common rat) belongs to the family of *muridae* (murids).",

@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/provenance",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/provenance",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "provenance",
   "definition": null,

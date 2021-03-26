@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/language/swedish",
+  "@id": "https://openminds.ebrains.eu/instances/language/swedish",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
   "name": "Swedish",
   "definition": null,

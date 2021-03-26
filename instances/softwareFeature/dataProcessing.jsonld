@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/dataProcessing",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/dataProcessing",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "data processing",
   "definition": null,

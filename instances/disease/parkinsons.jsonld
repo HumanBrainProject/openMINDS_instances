@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/parkinsons",
+  "@id": "https://openminds.ebrains.eu/instances/disease/parkinsons",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
   "name": "Parkinsons",
   "definition": "Parkinsons is a progressive central nervous system disorder that affects the motor system.",

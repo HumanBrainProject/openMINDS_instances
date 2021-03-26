@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/graphicalUserInterface",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/graphicalUserInterface",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "graphical user interface",
   "definition": null,

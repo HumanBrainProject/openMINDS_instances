@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/ethicsAssessment/EUCompliantNonSensitive",
+  "@id": "https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliantNonSensitive",
   "@type": "https://openminds.ebrains.eu/controlledTerms/EthicsAssessment",
   "name": "EU compliant, non sensitive",
   "definition": null,

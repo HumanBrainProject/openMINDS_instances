@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modelAbstractionLevel/spikingNeurons",
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
   "name": "spiking neurons",
   "definition": null,

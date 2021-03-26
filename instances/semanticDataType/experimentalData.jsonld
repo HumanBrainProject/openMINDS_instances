@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/semanticDataType/experimentalData",
+  "@id": "https://openminds.ebrains.eu/instances/semanticDataType/experimentalData",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SemanticDataType",
   "name": "experimental data",
   "definition": null,

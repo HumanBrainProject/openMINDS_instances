@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/augmentedReality",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/augmentedReality",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "augmented reality",
   "definition": null,

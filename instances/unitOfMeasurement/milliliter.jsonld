@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/unitOfMeasurement/milliliter",
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/milliliter",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
   "name": "milliliter",
   "definition": null,

@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/control",
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/control",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
   "name": "control",
   "definition": null,

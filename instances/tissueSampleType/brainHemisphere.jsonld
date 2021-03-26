@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/tissueSampleType/brainHemisphere",
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/brainHemisphere",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
   "name": "brain hemisphere",
   "definition": null,

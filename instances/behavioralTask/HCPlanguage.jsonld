@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/behavioralTask/HCPlanguage",
+  "@id": "https://openminds.ebrains.eu/instances/behavioralTask/HCPlanguage",
   "@type": "https://openminds.ebrains.eu/controlledTerms/BehavioralTask",
   "name": "HCP language",
   "definition": "The HCP language is a language processing task paradigm included in the Human Connectome Project.",

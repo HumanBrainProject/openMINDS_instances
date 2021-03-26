@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/cellType",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/cellType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
   "name": "cell type",
   "definition": null,

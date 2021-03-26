@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/programmingLanguage/JavaScript",
+  "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/JavaScript",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
   "name": "JavaScript",
   "definition": null,

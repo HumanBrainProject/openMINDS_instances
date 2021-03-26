@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/tissueSampleType/wholeBrain",
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/wholeBrain",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
   "name": "whole brain",
   "definition": null,
