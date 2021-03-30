@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/instances/fileRepositoryType/gitLab",
   "@type": "https://openminds.ebrains.eu/controlledTerms/FileRepositoryType",
-  "name": "GitLab",
+  "name": "GitLab repository",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
