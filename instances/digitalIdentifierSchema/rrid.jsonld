@@ -1,7 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/digitalIdentifierSchema/rrid",
-  "@type": "https://openminds.ebrains.eu/core/DigitalIdentifierSchema",
-  "type": "RRID",
-  "IRI": "https://scicrunch.org/resources",
-  "identifierPattern": null
-}

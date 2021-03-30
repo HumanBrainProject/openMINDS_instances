@@ -1,7 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/digitalIdentifierSchema/crossrefFunderID",
-  "@type": "https://openminds.ebrains.eu/core/DigitalIdentifierSchema",
-  "type": "Crossref Funder ID",
-  "IRI": "https://www.crossref.org/services/funder-registry/",
-  "identifierPattern": null
-}
