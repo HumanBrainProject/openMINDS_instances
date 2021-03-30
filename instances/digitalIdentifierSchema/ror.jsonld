@@ -1,7 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/digitalIdentifierSchema/ror",
-  "@type": "https://openminds.ebrains.eu/core/DigitalIdentifierSchema",
-  "type": "ROR",
-  "IRI": "https://ror.org/",
-  "identifierPattern": null
-}

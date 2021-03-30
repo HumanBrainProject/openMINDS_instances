@@ -1,7 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/digitalIdentifierSchema/wikidata",
-  "@type": "https://openminds.ebrains.eu/core/DigitalIdentifierSchema",
-  "type": "wikidata",
-  "IRI": "https://www.wikidata.org",
-  "identifierPattern": null
-}
