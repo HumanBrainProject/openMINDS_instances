@@ -1,8 +1,8 @@
 {
   "@id": "https://openminds.ebrains.eu/instances/fileRepositoryType/gitHub",
   "@type": "https://openminds.ebrains.eu/controlledTerms/FileRepositoryType",
-  "name": "Swift",
-  "definition": "The OpenStack Object Store project, known as Swift, offers cloud storage software so that you can store and retrieve lots of data with a simple API.",
+  "name": "Swift repository",
+  "definition": null,
   "description": null,
   "ontologyIdentifier": null
 }
