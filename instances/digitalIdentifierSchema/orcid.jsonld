@@ -3,5 +3,5 @@
   "@type": "https://openminds.ebrains.eu/core/DigitalIdentifierSchema",
   "type": "ORCID",
   "IRI": "https://orcid.org/",
-  "identifierPattern": "https:\/\/orcid.org\/\d{4}-\d{4}-\d{4}-(\d{3}X|\d{4})$"
+  "identifierPattern": "https:\/\/orcid.org\/\d{4}-\\d{4}-\\d{4}-(\\d{3}X|\\d{4})$"
 }
