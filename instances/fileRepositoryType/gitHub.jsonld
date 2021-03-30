@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/instances/fileRepositoryType/gitHub",
   "@type": "https://openminds.ebrains.eu/controlledTerms/FileRepositoryType",
-  "name": "GitHub",
+  "name": "GitHub repository",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
