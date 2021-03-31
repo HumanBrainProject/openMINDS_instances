@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/species/danioRerio",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "name": "Danio rerio",
+  "definition": "The species *Danio rerio* (zebrafish) belongs to the family of *cyprinidae* (cyprinids, freshwater fish).",
+  "description": null,
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_7955"
+}
