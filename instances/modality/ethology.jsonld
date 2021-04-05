@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/modality/ethology",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
+  "name": "ethology",
+  "definition": "Group of experimental approaches that focus on typically natural human or animal behavior and social organization from a biological, often evolution, perspective",
+  "description": null,
+  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739388"
+}
