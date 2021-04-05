@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/modality/epigenomics",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
   "name": "epigenomics",
-  "definition": "Techniques concerned with determining genetic modifications that affect transcription but do not alter the organism's DNA.",
+  "definition": "Group of experimental approaches that focus on genetic modifications which affect transcription, but do not alter the organism's DNA.",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0741207"
 }
