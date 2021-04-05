@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/modality/omics",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
   "name": "omics",
-  "definition": null,
+  "definition": "Group of experimental approaches that focus on characterization and quantification of biological molecules which translate into the structure, function, and dynamics of a single or multiple organism(s).",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739405"
 }
