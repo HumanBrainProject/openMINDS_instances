@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/anatomicalApproach",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "anatomical approach",
-  "definition": "Techniques concerned with the bodily structure of living organisms, especially as revealed by dissection and the separation of parts.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739411"
-}
