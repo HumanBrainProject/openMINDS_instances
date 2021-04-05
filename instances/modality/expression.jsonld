@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/modality/molecularExpression",
+  "@id": "https://openminds.ebrains.eu/instances/modality/expression",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "molecular expression",
+  "name": "expression",
   "definition": "Group of experimental approaches focus on single gene or protein expression within cells or tissues.",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739397"
