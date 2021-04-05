@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/modality/cellPopulationImaging",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
   "name": "cell population imaging",
-  "definition": null,
+  "definition": "Group of experimental approaches that focus on imaging biochemical, molecular and/or physiological characteristics of entire cell populations.",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739402"
 }
