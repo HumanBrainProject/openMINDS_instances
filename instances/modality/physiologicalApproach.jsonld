@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/physiologicalApproach",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "physiological approach",
-  "definition": "Techniques concerned with determining normal functions of living organisms and their parts.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739410"
-}
