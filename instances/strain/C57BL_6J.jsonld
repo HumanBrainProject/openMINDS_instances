@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/strain/C57BL_6J",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
   "name": "C57BL/6J",
-  "definition": "The C57BL/6J strain is an inbred mouse breed from the Jackson Laboratory.",
+  "definition": "'C57BL/6J' (synonyms: B6, B6J, Black 6, or C57 Black mice) is an inbred strain of the species 'Mus musculus'.",
   "description": null,
-  "ontologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/birnlex_393"
+  "ontologyIdentifier": "https://scicrunch.org/resources/Organisms/search?q=IMSR_JAX%3A000664&l=IMSR_JAX%3A000664"
 }

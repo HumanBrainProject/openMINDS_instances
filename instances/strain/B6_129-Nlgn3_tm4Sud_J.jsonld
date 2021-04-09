@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/strain/B6_129-Nlgn3_tm4Sud_J",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "name": "B6.129-Nlgn3<sup>tm4Sud</sup>/J",
+  "definition": "'B6.129-Nlgn3<sup>tm4Sud</sup>/J' is a congenic strain of the species 'Mus musculus'.",
+  "description": null,
+  "ontologyIdentifier": null
+}

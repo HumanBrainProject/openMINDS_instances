@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/strain/LEW_Crl",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "name": "LEW/Crl",
+  "definition": "'LEW/Crl' (synonyms: 'Lewis rats') is an inbred strain of the species 'Rattus norvegicus'.",
+  "description": null,
+  "ontologyIdentifier": "https://scicrunch.org/resources/Organisms/search?q=RGD_737932&l=RGD_737932"
+}
