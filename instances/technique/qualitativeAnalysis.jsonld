@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/technique/qualitativeAnalysis",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
   "name": "qualitative analysis",
-  "definition": null,
+  "definition": "'Qualitative analysis' uses subjective judgment to analyze data based on non-quantifiable information. The resulting data are typically nonnumerical.",
   "description": null,
   "ontologyIdentifier": null
 }
