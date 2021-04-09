@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/optogenetics",
+  "@id": "https://openminds.ebrains.eu/instances/technique/densityMeasurement",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "optogenetics",
+  "name": "density measurement",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

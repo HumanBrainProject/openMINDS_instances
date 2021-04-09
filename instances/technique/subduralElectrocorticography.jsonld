@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/subduralElectrocorticography",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "subdural electrocorticography",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

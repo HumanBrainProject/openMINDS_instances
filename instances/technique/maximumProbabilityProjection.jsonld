@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/stereotacticElectroencephalography",
+  "@id": "https://openminds.ebrains.eu/instances/technique/maximumProbabilityProjection",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "stereotactic electroencephalography",
+  "name": "maximum probability projection",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

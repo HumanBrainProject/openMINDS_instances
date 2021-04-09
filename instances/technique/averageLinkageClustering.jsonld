@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/photonStimulationTechnique",
+  "@id": "https://openminds.ebrains.eu/instances/technique/averageLinkageClustering",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "photon stimulation technique",
+  "name": "average linkage clustering",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

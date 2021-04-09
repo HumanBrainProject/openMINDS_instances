@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/metaAnalysisTechnique",
+  "@id": "https://openminds.ebrains.eu/instances/technique/metaAnalysis",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "meta-analysis technique",
+  "name": "meta-analysis",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

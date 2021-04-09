@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/technique/maximumProbabilityProjectionTechnique",
-  "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "maximum probability projection technique",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

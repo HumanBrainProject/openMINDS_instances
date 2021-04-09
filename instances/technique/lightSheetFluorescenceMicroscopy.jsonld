@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/cellAttachedPatchTechnique",
+  "@id": "https://openminds.ebrains.eu/instances/technique/lightSheetFluorescenceMicroscopy",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "cell attached patch technique",
+  "name": "light sheet fluorescence microscopy",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

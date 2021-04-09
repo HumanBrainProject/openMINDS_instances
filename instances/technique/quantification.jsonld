@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/densityMeasurementTechnique",
+  "@id": "https://openminds.ebrains.eu/instances/technique/quantification",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "density measurement technique",
+  "name": "quantification",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

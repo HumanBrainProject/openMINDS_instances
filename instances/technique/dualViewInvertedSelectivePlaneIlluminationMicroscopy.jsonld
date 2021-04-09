@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/instances/technique/dualViewInvertedSelectivePlaneIlluminationMicroscopy",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "dual view inverted selective plane illumination microscopy",
+  "name": "dual-view inverted selective plane illumination microscopy",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

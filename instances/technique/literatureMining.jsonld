@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/epiduralElectroencephalography",
+  "@id": "https://openminds.ebrains.eu/instances/technique/literatureMining",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "epidural electroencephalography",
+  "name": "literature mining",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

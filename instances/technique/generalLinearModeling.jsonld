@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/lightSheetMicroscopy",
+  "@id": "https://openminds.ebrains.eu/instances/technique/generalLinearModeling",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "light sheet microscopy",
+  "name": "general linear modelling",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

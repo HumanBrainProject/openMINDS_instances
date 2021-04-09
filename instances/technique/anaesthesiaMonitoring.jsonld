@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/currentClampTechnique",
+  "@id": "https://openminds.ebrains.eu/instances/technique/anaesthesiaMonitoring",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "current clamp technique",
+  "name": "anaesthesia monitoring",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

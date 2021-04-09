@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/anaesthesiaMonitoringTechnique",
+  "@id": "https://openminds.ebrains.eu/instances/technique/metaAnalyticConnectivityModeling",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "anaesthesia monitoring technique",
+  "name": "meta-analytic connectivity modeling",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

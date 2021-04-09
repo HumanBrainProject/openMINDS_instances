@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/quantificationTechnique",
+  "@id": "https://openminds.ebrains.eu/instances/technique/stereoelectroencephalography",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "quantification technique",
+  "name": "stereoelectroencephalography",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

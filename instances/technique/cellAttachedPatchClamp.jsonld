@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/tissueClearingTechnique",
+  "@id": "https://openminds.ebrains.eu/instances/technique/cellAttachedPatchClamp",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "tissue clearing technique",
+  "name": "cell attached patch clamp",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

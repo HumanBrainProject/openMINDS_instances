@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/generalLinearModellingTechnique",
+  "@id": "https://openminds.ebrains.eu/instances/technique/epiduralElectrocorticography",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "general linear modelling technique",
+  "name": "epidural electrocorticography",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
