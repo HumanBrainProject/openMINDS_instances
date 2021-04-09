@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/technique/3DPolarizedLightImageProcessing",
-  "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "3D polarized light image processing",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
