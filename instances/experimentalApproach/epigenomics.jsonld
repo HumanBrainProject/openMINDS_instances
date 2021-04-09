@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/epigenomics",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "name": "epigenomics",
-  "definition": "Group of experimental approaches that focus on genetic modifications which affect transcription, but do not alter the organism's DNA.",
+  "definition": "Any experimental approach focused on processes that modulate transcription but that do not directly alter the primary sequences of an organism's DNA.",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0741207"
 }

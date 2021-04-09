@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/anatomy",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "name": "anatomy",
-  "definition": "Group of experimental approaches that focus on the bodily structure of living organisms.",
+  "definition": "Any experimental approach focused on the bodily structure of living organisms.",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739411"
 }

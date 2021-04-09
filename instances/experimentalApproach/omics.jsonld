@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/omics",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "name": "omics",
-  "definition": "Group of experimental approaches that focus on characterization and quantification of biological molecules which translate into the structure, function, and dynamics of a single or multiple organism(s).",
+  "definition": "Any experimental approach focused on characterization and quantification of biological molecules that give rise to the structure, function, and dynamics of organisms or their parts.",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739405"
 }

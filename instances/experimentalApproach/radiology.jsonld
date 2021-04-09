@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/radiology",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "name": "radiology",
-  "definition": "Group of experimental approaches that focus on diagnosis and treatment of disease via radiant energy or radioactive material.",
+  "definition": "Any experimental approach focused on using non-invasive techniques that use intrinsic or induced contrast to form images. Also covers purely clinical domains such as nuclear medicine.",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739390"
 }

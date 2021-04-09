@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/behavior",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "name": "behavior",
-  "definition": "Group of experimental approaches that focus on the cognitive powers of living organisms and/or their response to stimuli.",
+  "definition": "Any experimental approach focused on the mechanical activity or cognitive processes underlying mechanical activity of living organisms often in response to external sensory stimuli.",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739413"
 }

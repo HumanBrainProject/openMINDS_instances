@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/genetics",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "name": "genetics",
+  "definition": "Experimental approach that measures or manipulates some aspect of the genetic material of an organism.",
+  "description": null,
+  "ontologyIdentifier": null
+}

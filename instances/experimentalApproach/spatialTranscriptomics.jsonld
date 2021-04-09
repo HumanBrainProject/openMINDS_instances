@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/spatialTranscriptomics",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "name": "spatial transcriptomics",
-  "definition": "Group of experimental approaches that focus on mapping all gene activity in biological tissue.",
+  "definition": "Any experimental approach focused on mapping the spatial location of gene activity in biological tissue.",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739396"
 }

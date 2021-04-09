@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/cellBiology",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "name": "cell biology",
-  "definition": "Group of experimental approaches that focus on structure, function, multiplication, pathology, and life history of biological cells.",
+  "definition": "Any experimental approach focused on structure, function, multiplication, pathology, and life history of biological cells.",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739391"
 }

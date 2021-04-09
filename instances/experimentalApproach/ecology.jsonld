@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/ecology",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "name": "ecology",
-  "definition": "Group of experimental approaches that focus on interrelationship of organisms and their environments, including causes and consequences.",
+  "definition": "Any experimental approach focused on interrelationship of organisms and their environments, including causes and consequences.",
   "description": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739389"
 }
