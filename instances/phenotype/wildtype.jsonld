@@ -2,8 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/phenotype/wildtype",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Phenotype",
   "name": "wildtype",
-  "definition": null,
+  "definition": "'wildtype' (synonyms: 'WT') is the set of observable characteristics or traits (phenotype) of a typical form of an organism as it occurs in nature.",
   "description": null,
   "ontologyIdentifier": null
 }
-
