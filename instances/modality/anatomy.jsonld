@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/anatomy",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "anatomy",
-  "definition": "Group of experimental approaches that focus on the bodily structure of living organisms.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739411"
-}

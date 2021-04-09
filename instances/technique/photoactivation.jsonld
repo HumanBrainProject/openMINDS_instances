@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/metaAnalyticConnectivityModelling",
+  "@id": "https://openminds.ebrains.eu/instances/technique/photoactivation",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "meta-analytic connectivity modelling",
+  "name": "photoactivation",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

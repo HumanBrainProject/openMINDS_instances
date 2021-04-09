@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/metaAnalyticConnectivityModelling",
+  "@id": "https://openminds.ebrains.eu/instances/technique/3DPolarizedLightImageProcessing",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "meta-analytic connectivity modelling",
+  "name": "3D polarized light image processing",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

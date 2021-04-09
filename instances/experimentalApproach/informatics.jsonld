@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/informatics",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "name": "informatics",
+  "definition": "Group of experimental approaches that focus on collection, classification, storage, retrieval, and dissemination of recorded knowledge in computational systems.",
+  "description": null,
+  "ontologyIdentifier": null
+}

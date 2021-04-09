@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/metaAnalyticConnectivityModelling",
+  "@id": "https://openminds.ebrains.eu/instances/technique/diffusionTensorImaging",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "meta-analytic connectivity modelling",
+  "name": "diffusion tensor imaging",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

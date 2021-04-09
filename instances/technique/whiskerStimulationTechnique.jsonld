@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/whiskerStimulation",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "whisker stimulation",
+  "definition": "'Whisker stimulation' comprises all stimulation techniques in which a single whisker or a group of whiskers is deflected in repeatable manner.",
+  "description": null,
+  "ontologyIdentifier": null
+}

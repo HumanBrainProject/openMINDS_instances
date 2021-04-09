@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/restingStateFunctionalMagneticResonanceImaging",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "resting state functional magnetic resonance imaging",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/metabolomics",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "name": "metabolomics",
+  "definition": "Group of experimental approaches that focus on chemical processes involving metabolites, the small molecule substrates, intermediates and products of cell metabolism.",
+  "description": null,
+  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0741203"
+}

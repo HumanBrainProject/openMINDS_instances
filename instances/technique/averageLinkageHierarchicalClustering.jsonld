@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/averageLinkageHierarchicalClustering",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "average linkage hierarchical clustering",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/multimodalResearch",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "name": "multimodal research",
+  "definition": "Group of experimental approaches that employ multiple experimental approaches in significant ways.",
+  "description": null,
+  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739395"
+}

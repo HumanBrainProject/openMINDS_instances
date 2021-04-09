@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/probabilisticDiffusionTractography",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "probabilistic diffusion tractography",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

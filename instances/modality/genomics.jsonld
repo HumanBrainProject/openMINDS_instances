@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/genomics",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "genomics",
-  "definition": "Group of experimental approaches that focus on structure, function, evolution, and mapping of genomes.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0741204"
-}

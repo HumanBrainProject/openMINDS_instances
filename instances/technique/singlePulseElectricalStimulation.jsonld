@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/metaAnalyticConnectivityModelling",
+  "@id": "https://openminds.ebrains.eu/instances/technique/singlePulseElectricalStimulation",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "meta-analytic connectivity modelling",
+  "name": "single pulse electrical stimulation",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

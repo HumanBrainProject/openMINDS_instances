@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/cellMorphology",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "cell morphology",
-  "definition": "Group of experimental approaches that focus on the shape and structure of individual cells.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739394"
-}

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/probabilisticAnatomicalParcellationTechnique",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "probabilistic anatomical parcellation technique",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

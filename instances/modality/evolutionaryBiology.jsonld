@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/evolutionaryBiology",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "evolutionary biology",
-  "definition": "Group of experimental approaches that focus on heritable characteristics of biological populations and their change over successive generations as developmental process for new forms and species.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739392"
-}

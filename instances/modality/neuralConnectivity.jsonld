@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/neuralConnectivity",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "neural connectivity",
-  "definition": "Group of experimental approaches that focus on functional or anatomical connections between single neurons or populations of neurons in defined anatomical regions.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739393"
-}

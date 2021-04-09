@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/metaAnalyticConnectivityModelling",
+  "@id": "https://openminds.ebrains.eu/instances/technique/confocalMicroscopy",
   "@type": "https://openminds.ebrains.eu/instances/Technique",
-  "name": "meta-analytic connectivity modelling",
+  "name": "confocal microscopy",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

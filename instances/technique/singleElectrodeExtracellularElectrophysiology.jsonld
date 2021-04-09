@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/singleElectrodeExtracellularElectrophysiology",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "single electrode extracellular electrophysiology",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

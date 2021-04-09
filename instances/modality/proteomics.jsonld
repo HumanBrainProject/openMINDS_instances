@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/proteomics",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "proteomics",
-  "definition": "Group of experimental approaches that focus on composition, structure, and activity of an entire set of proteins of a single or multiple organism(s).",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0741205"
-}

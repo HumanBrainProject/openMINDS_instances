@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/transcriptomics",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "transcriptomics",
-  "definition": "Group of experimental approaches that focus on identifying all RNA transcripts of an organism.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739406"
-}

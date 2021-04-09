@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/multiElectrodeExtracellularElectrophysiology",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "multi-electrode extracellular electrophysiology",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

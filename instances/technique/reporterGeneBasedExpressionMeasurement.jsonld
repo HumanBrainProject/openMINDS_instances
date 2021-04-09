@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/reporterGeneBasedExpressionMeasurement",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "reporter gene based expression measurement",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

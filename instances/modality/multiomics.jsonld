@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/multiomics",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "multiomics",
-  "definition": "Group of experimental approaches that employ multiple omics approaches in significant ways.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739407"
-}

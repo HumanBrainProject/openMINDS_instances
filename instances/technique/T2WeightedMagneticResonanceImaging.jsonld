@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/T2WeightedMagneticResonanceImaging",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "T2-weighted magnetic resonance imaging",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

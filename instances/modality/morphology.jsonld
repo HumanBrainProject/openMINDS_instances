@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/morphology",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "morphology",
-  "definition": "Group of experimental approaches that focus on form and structure of living organisms or biological tissue.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739403"
-}

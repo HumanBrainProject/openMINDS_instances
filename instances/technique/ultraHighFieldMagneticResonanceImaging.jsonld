@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/ultraHighFieldMagneticResonanceImaging",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "'Ultra high field magnetic resonance imaging' comprises all structural MRI techniques conducted with a MRI scanner with a magnetic field strength equal or above 7 Tesla.",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/anaesthesiaAdministrationTechnique",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "anaesthesia administration technique",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

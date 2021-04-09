@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/expressionCharacterization",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "expression characterization",
-  "definition": "Group of experimental approaches that focus on cellular, anatomical, or morphological distribution of gene expression.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739409"
-}

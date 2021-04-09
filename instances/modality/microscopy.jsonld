@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/modality/microscopy",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "microscopy",
-  "definition": "Group of experimental approaches that focus on differential contrast of microscopic structures.",
-  "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739404"
-}

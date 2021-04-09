@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/quantitativeMagneticResonanceImaging",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "quantitative magnetic resonance imaging",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/neuroimaging",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "name": "neuroimaging",
+  "definition": "Group of experimental approaches that focus on direct or indirect imaging of the structure, function, or pharmacology of the nervous system.",
+  "description": null,
+  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0741206"
+}

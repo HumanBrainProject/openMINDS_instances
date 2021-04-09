@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/serialSectionTransmissionElectronMicroscopy",
+  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "name": "serial section transmission electron microscopy",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
