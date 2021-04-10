@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/wholeBrain",
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/wholeOrgan",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
-  "name": "whole brain",
+  "name": "whole organ",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
