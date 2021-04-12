@@ -1,6 +1,6 @@
 {
   "@id": "https://openminds.ebrains.eu/instances/technique/intracellularInjection",
-  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
   "name": "intracellular injection",
   "definition": null,
   "description": null,

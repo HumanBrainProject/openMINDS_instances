@@ -1,6 +1,6 @@
 {
   "@id": "https://openminds.ebrains.eu/instances/technique/stereotacticSurgery",
-  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
   "name": "stereotactic surgery",
   "definition": null,
   "description": null,

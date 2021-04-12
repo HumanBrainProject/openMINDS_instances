@@ -1,6 +1,6 @@
 {
   "@id": "https://openminds.ebrains.eu/instances/technique/reporterProteinBasedExpressionMeasurement",
-  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
   "name": "reporter protein based expression measurement",
   "definition": null,
   "description": null,

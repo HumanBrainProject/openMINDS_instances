@@ -1,6 +1,6 @@
 {
   "@id": "https://openminds.ebrains.eu/instances/technique/singlePulseElectricalStimulation",
-  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
   "name": "single pulse electrical stimulation",
   "definition": null,
   "description": null,

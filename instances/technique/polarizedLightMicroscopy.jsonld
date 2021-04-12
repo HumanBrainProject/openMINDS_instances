@@ -1,6 +1,6 @@
 {
   "@id": "https://openminds.ebrains.eu/instances/technique/polarizedLightMicroscopy",
-  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
   "name": "polarized light microscopy",
   "definition": null,
   "description": null,

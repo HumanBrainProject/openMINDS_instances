@@ -1,6 +1,6 @@
 {
   "@id": "https://openminds.ebrains.eu/instances/technique/transmissionElectronMicroscopy",
-  "@type": "https://openminds.ebrains.eu/instances/Technique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
   "name": "transmission electron microscopy",
   "definition": "'Transmission electron microscopy' (TEM) is a microscopy technique in which a beam of electrons is transmitted through a sample to form an image at a resolution of roughly 0.2 nanometers (nm).",
   "description": null,
