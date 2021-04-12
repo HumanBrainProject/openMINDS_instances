@@ -2,8 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
   "name": "systems biology",
-  "definition": null,
+  "definition": "Modelling of neural systems below the level of individual neurons",
   "description": null,
   "ontologyIdentifier": null
 }
-

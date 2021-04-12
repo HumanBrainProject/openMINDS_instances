@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-biophysical",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "name": "spiking neurons: biophysical",
+  "definition": "Modelling neural networks in which individual neurons are represented by models with detailed morphology and biophysical models of ion channels",
+  "description": null,
+  "ontologyIdentifier": null
+}
