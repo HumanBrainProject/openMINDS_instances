@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/modelScope/subcellular-molecular",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
+  "name": "subcellular: molecular",
+  "definition": "A model of the structure or behaviour of molecules",
+  "description": null,
+  "ontologyIdentifier": null
+}

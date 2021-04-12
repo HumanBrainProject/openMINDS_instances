@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/modelScope/subcellular-ionChannel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
+  "name": "subcellular: ion channel",
+  "definition": "A model of an ion channel",
+  "description": null,
+  "ontologyIdentifier": null
+}
