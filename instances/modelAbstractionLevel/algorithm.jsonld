@@ -1,0 +1,8 @@
+{
+    "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/algorithm",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+    "name": "algorithm",
+    "definition": "Modelling of a neural structure or process as an algorithm",
+    "description": null,
+    "ontologyIdentifier": null
+  }

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralField",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "name": "population modelling: neural field",
+  "definition": "Modelling neural populations using the approximation of a neural field",
+  "description": null,
+  "ontologyIdentifier": null
+}

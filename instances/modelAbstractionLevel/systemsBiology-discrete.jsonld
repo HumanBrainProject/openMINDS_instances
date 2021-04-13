@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-discrete",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "name": "systems biology: discrete",
+  "definition": "Systems biology modelling using representations of individual particles",
+  "description": null,
+  "ontologyIdentifier": null
+}

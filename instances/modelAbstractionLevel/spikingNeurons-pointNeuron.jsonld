@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-pointNeuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "name": "spiking neurons: point neuron",
+  "definition": "Modelling neural networks in which individual neurons are represented by point neuron models",
+  "description": null,
+  "ontologyIdentifier": null
+}

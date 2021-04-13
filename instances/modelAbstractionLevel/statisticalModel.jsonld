@@ -2,8 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModel",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
   "name": "statistical model",
-  "definition": null,
+  "definition": "Statistical modelling of neural data generation",
   "description": null,
   "ontologyIdentifier": null
 }
-
