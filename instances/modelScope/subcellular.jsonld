@@ -2,8 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/modelScope/subcellular",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
   "name": "subcellular",
-  "definition": null,
+  "definition": "A model of an entity or process contained within a cell",
   "description": null,
   "ontologyIdentifier": null
 }
-

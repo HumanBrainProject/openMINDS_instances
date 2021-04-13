@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/modelScope/network-brainRegion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
+  "name": "network: brain region",
+  "definition": "A model of one or more brain regions",
+  "description": null,
+  "ontologyIdentifier": null
+}
