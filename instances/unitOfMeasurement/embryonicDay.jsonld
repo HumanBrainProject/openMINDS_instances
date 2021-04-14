@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/embryonicDay",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "name": "embryonic day",
+  "definition": "'Embryonic day' is a specific unit to measure the time pasted since fertilization of an egg cell.",
+  "description": null,
+  "ontologyIdentifier": null
+}
