@@ -1,0 +1,9 @@
+  
+{
+  "@id": "https://openminds.ebrains.eu/instances/strain/B6_129-Tg_Drd1-cre_120Mxu_Mmjax",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "name": "B6;129-Tg(Drd1-cre)120Mxu/Mmjax",
+  "definition": "'B6;129-Tg(Drd1-cre)120Mxu/Mmjax' is a transgenic strain of the species 'Mus musculus' (mutant stock).",
+  "description": null,
+  "ontologyIdentifier": null
+}
