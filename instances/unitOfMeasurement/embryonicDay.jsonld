@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/embryonicDay",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "name": "embryonic day",
+  "definition": "'Embryonic day' is a specific unit to measure the developmental stage of an embryo, starting with fertilization (1st embryonic day).",  
+  "description": null,
+  "ontologyIdentifier": null
+}
