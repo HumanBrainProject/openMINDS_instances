@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/behavioralTask/HCPWorkingMemoryTask",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/BehavioralTask",
+  "name": "HCP Working Memory task",
+  "definition": "In the 'HCP Working Memory task' participants had to perform a 2-back working memory task or a two-alternative forced choice task (0-back memory task) on images from four different categories (places, tools, faces and body parts). The task is included in the Human Connectome Project.",
+  "description": "The 'HCP Working Memory task' combines a category specific representation task and a working memory task into a single paradigm. Participants were presented with blocks of trials that consisted of pictures of places, tools, faces and body parts (non-mutilated parts of bodies with no “nudity”). Within each run, the 4 different stimulus types were presented in separate blocks. Also, within each run, half of the blocks use a 2-back working memory task (is the stimulus the same as the stimulus presented two earlier?) and the other half use a 0-back working memory task (as a working memory comparison). A 2.5 second cue indicates the task type (and target for 0-back) at the start of the block. Each of the two runs contains 8 task blocks (10 trials of 2.5 seconds each, for 25 seconds) and 4 fixation blocks (15 seconds). On each trial, the stimulus is presented for 2 seconds, followed by a 500 ms inter-task interval (ITI).",
+  "ontologyIdentifier": null
+}
+

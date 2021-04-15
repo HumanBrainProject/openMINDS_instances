@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/behavioralTask/HCPEmotionProcessingTask",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/BehavioralTask",
+  "name": "HCP Emotion Processing task",
+  "definition": "In the 'HCP Emotion Processing task' participants have a two-alternative forced-choice to match one of two human faces or geometric shapes to a third face or shape, respectively. The task is included in the Human Connectome Project.",
+  "description": "The 'HCP Emotion Processing task' was adapted from the one developed by Hariri and colleagues (Smith et al. 2007). Participants are presented with blocks of trials that either ask them to decide which of two faces presented on the bottom of the screen match the face at the top of the screen, or which of two shapes presented at the bottom of the screen match the shape at the top of the screen. The faces have either an angry or fearful expression. Trials are presented in blocks of 6 trials of the same task (face or shape), with the stimulus presented for 2000 ms and a 1000 ms ITI. Each block is preceded by a 3000 ms task cue ('shape' or 'face'), so that each block is 21 seconds including the cue. Each of the two runs includes 3 face blocks and 3 shape blocks, with 8 seconds of fixation at the end of each run.",
+  "ontologyIdentifier": null
+}
+
