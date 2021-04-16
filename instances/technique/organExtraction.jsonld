@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/technique/organExtraction",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "name": "organ extraction",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
