@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/technique/contrastEnhancementTechnique",
+  "@id": "https://openminds.ebrains.eu/instances/technique/contrastEnhancement",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "contrast enhancement technique",
+  "name": "contrast enhancement",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
