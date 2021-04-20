@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/technique/sodiumDodecylSulfateDigestedFreezeFractureReplicaLabeling",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "sodium dodecyl sulfate-digested freeze-fracture replica labeling",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
