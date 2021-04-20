@@ -6,7 +6,7 @@
     "RGDID:737929",
     "RRID:RGD_737929"
   ],
-  "definition": "'Crl:WI' (synonyms: 'Wistar rat', 'Crl:(WI)BR', 'WIST/Crl') is an outbred strain of the species 'Rattus norvegicus'.",
-  "description": "This strain was initiated by H. Donaldson, M. J. Greenman, and H. Dean King at the Wistar Institute, Philadelphia, Pennsylvania in 1906.",
+  "definition": "'Crl:WI' (synonyms: 'Wistar rat'; 'Crl:(WI)BR'; 'WIST/Crl') is an outbred strain of the species 'Rattus norvegicus'.",
+  "description": null,
   "ontologyIdentifier": null
 }
