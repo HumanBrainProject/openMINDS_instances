@@ -2,7 +2,11 @@
   "@id": "https://openminds.ebrains.eu/instances/strain/Crl_WI",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
   "name": "Crl:WI",
-  "definition": "'Crl:WI' (synonyms: 'Wistar rats', 'Crl:(WI)BR') is an outbred strain of the species 'Rattus norvegicus'.",
+  "identifier": [
+    "RGDID:737929",
+    "RRID:RGD_737929"
+  ],
+  "definition": "'Crl:WI' (synonyms: 'Wistar rat', 'Crl:(WI)BR', 'WIST/Crl') is an outbred strain of the species 'Rattus norvegicus'.",
   "description": "This strain was initiated by H. Donaldson, M. J. Greenman, and H. Dean King at the Wistar Institute, Philadelphia, Pennsylvania in 1906.",
-  "ontologyIdentifier": "https://scicrunch.org/resources/Organisms/search?q=RGD_737929&l=RGD_737929"
+  "ontologyIdentifier": null
 }

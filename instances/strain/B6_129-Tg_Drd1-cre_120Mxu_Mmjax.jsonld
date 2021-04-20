@@ -3,7 +3,12 @@
   "@id": "https://openminds.ebrains.eu/instances/strain/B6_129-Tg_Drd1-cre_120Mxu_Mmjax",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
   "name": "B6;129-Tg(Drd1-cre)120Mxu/Mmjax",
-  "definition": "'B6;129-Tg(Drd1-cre)120Mxu/Mmjax' is a transgenic strain of the species 'Mus musculus' (mutant stock).",
+  "identifier": [
+    "MGI:5578135",
+    "JAX:024860",
+    "MMRRC:037156"
+  ],
+  "definition": "'B6;129-Tg(Drd1-cre)120Mxu/Mmjax' (synonyms: 'B6;129-Tg(Drd1a-cre)120Mxu/Mmjax') is a transgenic strain of the species 'Mus musculus' (mutant stock).",
   "description": null,
   "ontologyIdentifier": null
 }
