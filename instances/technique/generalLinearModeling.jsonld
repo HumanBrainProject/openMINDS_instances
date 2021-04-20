@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/instances/technique/generalLinearModeling",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "general linear modelling",
+  "name": "general linear modeling",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
