@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/fileRepositoryType/swift",
   "@type": "https://openminds.ebrains.eu/controlledTerms/FileRepositoryType",
   "name": "Swift repository",
-  "definition": null,
+  "definition": "A Swift repository uses the long-term cloud storage of the OpenStack Object Store project which is particularly designed for retrieving and updating large amounts of static data without the need of a central point of control.",
   "description": null,
   "ontologyIdentifier": null
 }
