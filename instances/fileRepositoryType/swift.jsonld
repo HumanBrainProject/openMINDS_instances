@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/fileRepositoryType/gitHub",
+  "@id": "https://openminds.ebrains.eu/instances/fileRepositoryType/swift",
   "@type": "https://openminds.ebrains.eu/controlledTerms/FileRepositoryType",
   "name": "Swift repository",
   "definition": null,
