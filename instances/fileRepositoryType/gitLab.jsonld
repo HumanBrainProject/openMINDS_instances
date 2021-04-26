@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/fileRepositoryType/gitLab",
   "@type": "https://openminds.ebrains.eu/controlledTerms/FileRepositoryType",
   "name": "GitLab repository",
-  "definition": null,
+  "definition": "A GitLab repository offers version control and source code management functionalities of Git, plus some GitLab features (e.g., access control, bug tracking, feature requests, task management, continous integration, and wikis).",
   "description": null,
   "ontologyIdentifier": null
 }
