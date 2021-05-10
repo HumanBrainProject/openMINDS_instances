@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/fileUsageRole/dataDescriptor",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileUsageRole",
+  "name": "data descriptor",
+  "definition": "A data descriptor is a document that provides detailed descriptions of research datasets that focus on helping others reuse data.",
+  "description": null,
+  "ontologyIdentifier": null
+}
