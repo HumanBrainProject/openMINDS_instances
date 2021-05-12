@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/active",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
+  "name": "active",
+  "definition": "An in-progress action",
+  "description": null,
+  "ontologyIdentifier": "https://schema.org/ActiveActionStatus"
+}
