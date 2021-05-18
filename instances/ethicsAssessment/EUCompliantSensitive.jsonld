@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliantSensitive",
   "@type": "https://openminds.ebrains.eu/controlledTerms/EthicsAssessment",
   "name": "EU compliant, sensitive",
-  "definition": null,
+  "definition": "'EU compliant, sensitive' data should be able to provide an ethics approval as part of the metadata and conduct an EBRAINS ethics compliance check.",
   "description": null,
   "ontologyIdentifier": null
 }
