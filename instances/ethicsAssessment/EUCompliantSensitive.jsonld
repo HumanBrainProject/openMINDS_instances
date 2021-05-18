@@ -3,7 +3,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/EthicsAssessment",
   "name": "EU compliant, sensitive",
   "definition": "'EU compliant, sensitive' data should be able to provide an ethics approval as part of the metadata and conduct an EBRAINS ethics compliance check.",
-  "description": null,
+  "description": "'EU compliant, sensitive' data should be able to provide an ethics approval as part of the metadata and conduct an EBRAINS ethics compliance check. This is typically true for all living human single-subject data as well as all non-human primate data.",
   "ontologyIdentifier": null
 }
 
