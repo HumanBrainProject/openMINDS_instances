@@ -3,7 +3,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/EthicsAssessment",
   "name": "EU compliant, non sensitive",
   "definition": "'EU compliant, non sensitive' data should be able to provide an ethics approval as part of the metadata. An EBRAINS ethics compliance check is not required.",
-  "description": null,
+  "description": "'EU compliant, non sensitive' data should be able to provide an ethics approval as part of the metadata. An EBRAINS ethics compliance check is not required. This is typically true for all non-primate vertebrate animals as well as cephalopods.",
   "ontologyIdentifier": null
 }
 
