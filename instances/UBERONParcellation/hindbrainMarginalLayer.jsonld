@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainMarginalLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "hindbrain marginal layer",
+  "definition": null,
+  "description": "'Hindbrain marginal layer' is a central nervous system cell part cluster. It is part of the hindbrain.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034709"
+}

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleEpendyma",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "fourth ventricle ependyma",
+  "definition": null,
+  "description": "'Fourth ventricle ependyma' is a brain ependyma. It is part of the fourth ventricle.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004644"
+}

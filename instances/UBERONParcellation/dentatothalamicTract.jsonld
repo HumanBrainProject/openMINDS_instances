@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dentatothalamicTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "dentatothalamic tract",
+  "definition": "The dentatothalamic tract (or dentatorubrothalamic tract) is a tract which connects the dentate nucleus and the thalamus. [WP,unvetted].",
+  "description": "'Dentatothalamic tract' is a tract of brain. It is part of the midbrain tegmentum.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002594"
+}

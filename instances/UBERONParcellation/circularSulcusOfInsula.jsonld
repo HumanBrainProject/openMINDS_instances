@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/circularSulcusOfInsula",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "circular sulcus of insula",
+  "definition": null,
+  "description": "'Circular sulcus of insula' is a marginal sulcus. It is part of the insula.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002713"
+}
