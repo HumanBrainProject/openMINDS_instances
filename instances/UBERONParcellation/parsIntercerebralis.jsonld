@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parsIntercerebralis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "pars intercerebralis",
+  "definition": "A neurosecretory center of the insect brain, located along the anterior midline[wiktionary]. A medial cleft or depression dividing the left and right protocerebrum and containing numerous large and small somata of neurosecretory and neuromodulatory neurons[FBbt].",
+  "description": "'Pars intercerebralis' is a central nervous system cell part cluster. It is part of the brain.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001059"
+}

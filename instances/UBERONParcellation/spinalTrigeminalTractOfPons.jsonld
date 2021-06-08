@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfPons",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "spinal trigeminal tract of pons",
+  "definition": null,
+  "description": "'Spinal trigeminal tract of pons' is a spinal trigeminal tract. It is part of the pontine tegmentum.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002800"
+}

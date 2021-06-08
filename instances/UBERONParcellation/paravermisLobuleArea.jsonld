@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisLobuleArea",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "paravermis lobule area",
+  "definition": null,
+  "description": "'Paravermis lobule area' is a cerebellum hemisphere lobule. It is part of the paravermis parts of the cerebellar cortex.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027285"
+}

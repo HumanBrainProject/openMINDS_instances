@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralGyrus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "postcentral gyrus",
+  "definition": "Component of the parietal lobe. The appearance and disappearance of the central sulcus were the rostral and caudal boundaries of the postcentral gyrus respectively. The medial and lateral boundaries were the lateral bank of the precentral gyrus and the lateral fissure and/or the medial bank of the superior parietal gyrus respectively (Christine Fennema-Notestine).",
+  "description": "'Postcentral gyrus' is a gyrus. It is part of the parietal lobe.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002581"
+}
