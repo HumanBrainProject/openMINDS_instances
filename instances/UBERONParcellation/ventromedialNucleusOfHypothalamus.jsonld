@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventromedialNucleusOfHypothalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "ventromedial nucleus of hypothalamus",
+  "definition": "The ventromedial nucleus (sometimes referred to as the ventromedial hypothalamus) is a nucleus of the hypothalamus. [WP,unvetted].",
+  "description": "'Ventromedial nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the intermediate hypothalamic region.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001935"
+}

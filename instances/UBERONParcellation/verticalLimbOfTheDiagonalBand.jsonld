@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/verticalLimbOfTheDiagonalBand",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "vertical limb of the diagonal band",
+  "definition": null,
+  "description": "'Vertical limb of the diagonal band' is a subdivision of diagonal band.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006124"
+}

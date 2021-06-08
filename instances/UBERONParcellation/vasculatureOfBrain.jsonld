@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/vasculatureOfBrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "vasculature of brain",
+  "definition": "System pertaining to blood vessels in the brain.",
+  "description": "'Vasculature of brain' is a vasculature of central nervous system. It is part of the brain.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008998"
+}
