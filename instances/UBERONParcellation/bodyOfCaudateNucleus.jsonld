@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCaudateNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "body of caudate nucleus",
+  "definition": "Part of caudate nucleus lying just dorsal to the thalamus.",
+  "description": "'Body of caudate nucleus' is a gray matter of telencephalon. It is part of the caudate nucleus.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002630"
+}

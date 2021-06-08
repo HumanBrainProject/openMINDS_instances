@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/basalNucleusOfTelencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "basal nucleus of telencephalon",
+  "definition": "A group of neurons in the basal forebrain that has wide projections to the neocortex and is rich in acetylcholine and choline acetyltransferase. It undergoes degeneration in paralysis agitans and Alzheimer's disease.",
+  "description": "'Basal nucleus of telencephalon' is a telencephalic nucleus. It is part of the substantia innominata.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010010"
+}

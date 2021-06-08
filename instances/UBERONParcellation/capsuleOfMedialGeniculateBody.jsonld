@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfMedialGeniculateBody",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "capsule of medial geniculate body",
+  "definition": null,
+  "description": "'Capsule of medial geniculate body' is a diencephalic white matter. It is part of the medial geniculate body.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002627"
+}
