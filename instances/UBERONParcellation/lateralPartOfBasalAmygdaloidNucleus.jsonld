@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfBasalAmygdaloidNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "lateral part of basal amygdaloid nucleus",
+  "definition": null,
+  "description": "'Lateral part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002888"
+}

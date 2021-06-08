@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPesLemniscus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "lateral pes lemniscus",
+  "definition": null,
+  "description": "'Lateral pes lemniscus' is a nervous system lemniscus. It is part of the midbrain tegmentum.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003010"
+}

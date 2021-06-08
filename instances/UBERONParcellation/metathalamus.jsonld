@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/metathalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "metathalamus",
+  "definition": "The metathalamus is a composite structure of the thalamus, consisting of the medial geniculate nucleus and the lateral geniculate nucleus. [WP,unvetted].",
+  "description": "'Metathalamus' is a nucleus of dorsal thalamus.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002704"
+}

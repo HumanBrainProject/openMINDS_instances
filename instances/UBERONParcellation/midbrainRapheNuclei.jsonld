@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainRapheNuclei",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "midbrain raphe nuclei",
+  "definition": "Midline nuclei found in the midbrain, includes the dorsal raphe nucleus and the rostral linear nucleus of raphe.",
+  "description": "'Midbrain raphe nuclei' is a regional part of brain. It is part of the midbrain tegmentum and raphe nuclei.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007412"
+}
