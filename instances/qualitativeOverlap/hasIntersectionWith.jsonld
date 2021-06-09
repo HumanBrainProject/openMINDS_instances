@@ -1,8 +1,8 @@
 {
-  "@id": "https://openminds.ebrains.eu/instances/qualitativeOverlap/hasIntersectionWith",
+  "@id": "https://openminds.ebrains.eu/instances/qualitativeOverlap/partiallyOverlapsWith",
   "@type": "https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap",
-  "name": "has intersection with",
-  "definition": "The intersection of two sets/objects (A and B) are the elements/incidents which are part of both original objects (A and B).",
+  "name": "partially overlaps with",
+  "definition": "Two sets/objects (A and B) partially overlap when some elements/incidents are part of both original objects (A and B).",
   "description": null,
   "ontologyIdentifier": null
 }
