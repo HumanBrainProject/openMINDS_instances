@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/instances/qualitativeOverlap/isLexicalVariantOf",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap",
-  "name": "is lexical variant of",
-  "definition": "A defining term of a set/object (A) is a lexical variant of another defining term used for another set/object (B), if (A) and (B) are essentially equal and terms only differ semantically.",
-  "description": null,
-  "ontologyIdentifier": null
-}
