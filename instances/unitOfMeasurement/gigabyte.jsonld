@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/gigabyte",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "name": "gigabyte",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

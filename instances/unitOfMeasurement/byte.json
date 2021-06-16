@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/byte",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "name": "byte",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
