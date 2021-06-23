@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfVagusNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "root of vagus nerve",
+  "definition": "A root of cranial nerve that is part of a vagus nerve.",
+  "description": "'Root of vagus nerve' is a nerve root.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011213"
+}

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialOlfactoryGyrus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "medial olfactory gyrus",
+  "definition": null,
+  "description": "'Medial olfactory gyrus' is a gyrus.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002599"
+}

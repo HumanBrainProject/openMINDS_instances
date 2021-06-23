@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/brainBloodVessel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "brain blood vessel",
+  "definition": null,
+  "description": "'Brain blood vessel' is part of the vasculature of brain.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003499"
+}

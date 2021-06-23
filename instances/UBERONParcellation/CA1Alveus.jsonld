@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/CA1Alveus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "CA1 alveus",
+  "definition": "CA1 portion of the alveus.",
+  "description": "'CA1 alveus' is a layer of CA1 field. It is part of the hippocampus alveus.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014570"
+}

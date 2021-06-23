@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/brainMarginalZone",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "brain marginal zone",
+  "definition": "The part of the future brain that is derived from the mantle layer of the neural tube.",
+  "description": "'Brain marginal zone' is an anatomical entity. It is part of the brain.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010403"
+}

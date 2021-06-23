@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialPesLemniscus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "medial pes lemniscus",
+  "definition": null,
+  "description": "'Medial pes lemniscus' is a brainstem white matter and white matter of midbrain. It is part of the midbrain tegmentum.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002662"
+}

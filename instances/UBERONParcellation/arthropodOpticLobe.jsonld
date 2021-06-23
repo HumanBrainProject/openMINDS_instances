@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/arthropodOpticLobe",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "arthropod optic lobe",
+  "definition": "A region of the adult brain that processes the visual information from the compound eyes.",
+  "description": "'Arthropod optic lobe' is a visual processing part of nervous system. It is part of the brain.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006795"
+}

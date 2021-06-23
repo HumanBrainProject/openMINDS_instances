@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/aggregateRegionalPartOfBrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "aggregate regional part of brain",
+  "definition": "A regional part of brain consisting of multiple brain regions that are not related through a simple volummetric part of hierarchy, e.g., basal ganglia[NIF].",
+  "description": "'Aggregate regional part of brain' is an anatomical entity. It is part of the brain.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010009"
+}

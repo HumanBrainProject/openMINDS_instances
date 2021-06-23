@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fundusStriati",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "fundus striati",
+  "definition": "The ventral portion of the dorsal striatum, linking the caudate nucleus and the putamen anteriorly (adapted from Wikipedia).",
+  "description": "'Fundus striati' is a regional part of brain. It is part of the ventral striatum.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014605"
+}

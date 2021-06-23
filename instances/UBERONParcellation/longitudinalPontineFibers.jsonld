@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/longitudinalPontineFibers",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "longitudinal pontine fibers",
+  "definition": null,
+  "description": "'Longitudinal pontine fibers' is a tract of brain. It is part of the basal part of pons.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002732"
+}

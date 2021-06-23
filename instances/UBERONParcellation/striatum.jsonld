@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/striatum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "striatum",
+  "definition": "A region of the forebrain consisting of the caudate nucleus, putamen and fundus striati.[GO].",
+  "description": "'Striatum' is a gray matter of telencephalon. It is part of the ventral part of telencephalon, corpus striatum and basal nuclear complex.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002435"
+}

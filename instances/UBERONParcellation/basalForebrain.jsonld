@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/basalForebrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "basal forebrain",
+  "definition": "A region of the brain consisting of ventral and rostral subcortical regions of the telencephalon, including among others, the basal ganglia, septal nuclei, amygdala, ventral pallidum, substantia innominata, and basal nucleus of Meynert.",
+  "description": "'Basal forebrain' is a regional part of brain. It is part of the forebrain.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002743"
+}

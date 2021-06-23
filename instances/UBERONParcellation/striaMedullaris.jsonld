@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/striaMedullaris",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "stria medullaris",
+  "definition": "The major afferent track to the habenula from the telencephalon (particularly in the septal side) in all vertebrates[Butler and Hodos].",
+  "description": "'Stria medullaris' is a diencephalic white matter and stria of neuraxis. It is part of the dorsal plus ventral thalamus.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006086"
+}

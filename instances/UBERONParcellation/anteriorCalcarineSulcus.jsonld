@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCalcarineSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "anterior calcarine sulcus",
+  "definition": null,
+  "description": "'Anterior calcarine sulcus' is a sulcus of brain.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002582"
+}

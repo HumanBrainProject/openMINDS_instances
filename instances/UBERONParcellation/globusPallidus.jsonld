@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/globusPallidus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "globus pallidus",
+  "definition": "Subcortical nucleus, functionally part of the basal ganglia, which consists of two segments the external (or lateral) and internal (or medial) separated by the medial medullary lamina in primates. In rodents, The globus pallidus lateral is separated from the medial segment by the fibers of the internal capsule/cerebral peduncle.",
+  "description": "'Globus pallidus' is a telencephalic nucleus. It is part of the cerebral hemisphere and pallidum.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001875"
+}

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subcuneiformNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "subcuneiform nucleus",
+  "definition": null,
+  "description": "'Subcuneiform nucleus' is a nucleus of midbrain reticular formation.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002700"
+}

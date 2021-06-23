@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/habenulointerpeduncularTractOfMidbrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "habenulo-interpeduncular tract of midbrain",
+  "definition": null,
+  "description": "'Habenulo-interpeduncular tract of midbrain' is a fasciculus of brain. It is part of the midbrain tegmentum, habenulo-interpeduncular tract and white matter of midbrain.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023740"
+}

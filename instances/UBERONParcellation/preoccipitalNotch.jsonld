@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/preoccipitalNotch",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "preoccipital notch",
+  "definition": "Small indentation on the inferior surface of the cerebral cortex at the border of the occiptal and parietal lobes. It is considered as a landmark because the occipital lobe is located just behind the line that connects that notch with the parietoccipital sulcus (adapted from Wikipedia).",
+  "description": "'Preoccipital notch' is an anatomical entity. It is part of the occipital lobe.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002698"
+}

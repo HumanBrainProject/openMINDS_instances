@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentromedialPart",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "lateral amygdaloid nucleus, ventromedial part",
+  "definition": null,
+  "description": "'Lateral amygdaloid nucleus, ventromedial part' is a regional part of brain.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023417"
+}

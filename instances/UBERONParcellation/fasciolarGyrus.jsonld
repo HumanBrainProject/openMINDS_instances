@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fasciolarGyrus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "fasciolar gyrus",
+  "definition": "A small paired band that passes around the splenium of the corpus callosum from the lateral longitudinal stria to the dentate gyrus[Biology-Online]. A posterior and upward extension of the dentate gyrus, forming a transitional area between the dentate gyrus and the indusium griseum[BTO].",
+  "description": "'Fasciolar gyrus' is part of the limbic lobe.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002601"
+}

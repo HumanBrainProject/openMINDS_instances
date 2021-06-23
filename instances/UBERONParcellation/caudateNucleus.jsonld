@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/caudateNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "caudate nucleus",
+  "definition": "Subcortical nucleus of telecephalic origin consisting of an elongated gray mass lying lateral to and bordering the lateral ventricle. It is divided into a head, body and tail in some species.",
+  "description": "'Caudate nucleus' is a telencephalic nucleus. It is part of the caudate-putamen.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001873"
+}

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/principalPretectalNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "principal pretectal nucleus",
+  "definition": null,
+  "description": "'Principal pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002572"
+}

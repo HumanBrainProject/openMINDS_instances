@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/amiculumOfDentateNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "name": "amiculum of dentate nucleus",
+  "definition": null,
+  "description": "'Amiculum of dentate nucleus' is a white matter of metencephalon and amiculum. It is part of the dentate nucleus.",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002568"
+}
