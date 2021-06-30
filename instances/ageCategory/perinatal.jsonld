@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "perinatal",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012101",
-  "synonym": null
+  "synonym": [
+    "perinatal stage"
+  ]
 }
