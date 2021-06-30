@@ -10,5 +10,12 @@
   "knowledgeSpaceLink": null,
   "name": "Chlorocebus pygerythrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_60710",
-  "synonym": null
+  "synonym": [
+    "vervet marmoset",
+    "vervet monkey",
+    "vervet",
+    "Chlorocebus aethiops pygerythrus",
+    "Cercopithecus pygerythrus",
+    "Cercopithecus aethiops pygerythrus"
+  ]
 }
