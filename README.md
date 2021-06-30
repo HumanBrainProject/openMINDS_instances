@@ -41,6 +41,6 @@ The values written in capital letters need to be replaced accordingly. Here a fu
 ```
 Note that properties that are defined as optional in an openMINDS schema can either be provided with a `null` value in the JSON-LD or left out completely.
 
-**License**
+### License
 
 The work on this GitHub repository is licensed under the MIT License.
