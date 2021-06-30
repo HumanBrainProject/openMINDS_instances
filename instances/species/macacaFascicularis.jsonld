@@ -6,9 +6,17 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
   "definition": "The species *Macaca fascicularis* (crab-eating macaque) belongs to the family of *cercopithecidae* (old world monkeys).",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0485278",
   "knowledgeSpaceLink": null,
   "name": "Macaca fascicularis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9541",
-  "synonym": null
+  "synonym": [
+    "crab-eating macaque",
+    "crab eating macaque",
+    "long-tailed macaque",
+    "cynomolgus monkey",
+    "cynomolgus macaque",
+    "Macaca cynomolgus",
+    "Macaca irus"
+  ]
 }
