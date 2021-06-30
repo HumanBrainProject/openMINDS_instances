@@ -2,13 +2,15 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/cellType/glialCell",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/astrocyte",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "definition": null,
+  "definition": "A 'glial cell' is a non-neuronal cell of the nervous system. Glial cells provide physical support, respond to injury, regulate the ionic and chemical composition of the extracellular milieu, guide neuronal migration during development, and exchange metabolites with neurons.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100947",
   "knowledgeSpaceLink": null,
-  "name": "glial cell",
+  "name": "astrocyte",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "neuroglial cell"
+  ]
 }
