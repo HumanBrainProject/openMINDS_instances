@@ -4,7 +4,7 @@ The openMINDS_instances repository is part of the **open** **M**etadata **I**nit
 
 **How to request new instances?** Requests for adding new instances to this libraray can be made by getting in touch with the openMINDS development team (through the Issues or the support email: coming soon). The team will attend to a request as soon as possible. Note that instances should be well defined to be useful for the community. They should at least provide a one sentence definition, and where applicable a reference to a matching ontology term (for ControlledTerms) or another official resource (e.g., IANA for ContentType or SPDX for License).
 
-Correctly instantiated openMINDS JSON-LDs should always contain the following technical attributes, and at least the required properties of the respective schema type they are validated against:
+**How to correctly define an openMINDS instance?** openMINDS instances are written as JSON-LDs. A correctly instantiated openMINDS JSON-LD should always contain the following technical attributes, and at least the required properties of the respective schema type they are validated against:
 
 ```json
 {
