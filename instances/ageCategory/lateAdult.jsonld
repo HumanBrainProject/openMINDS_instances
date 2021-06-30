@@ -10,5 +10,10 @@
   "knowledgeSpaceLink": null,
   "name": "late adult",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007222",
-  "synonym": null
+  "synonym": [
+    "late adult stage",
+    "geriatric stage",
+    "geriatric",
+    "elderly stage",
+    "elderly"
 }
