@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "juvenile",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034919",
-  "synonym": null
+  "synonym": [
+    "juvenile stage"
+  ]
 }
