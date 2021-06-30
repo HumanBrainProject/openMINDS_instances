@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Berghia stephanieae",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "purl.obolibrary.org/obo/NCBITaxon_1287507",
+  "synonym": [
+    "Aeolidiella stephanieae"
+  ]
 }
