@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "Monodelphis domestica",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_13616",
-  "synonym": null
+  "synonym": [
+    "gray short-tailed opossum"
+  ]
 }
