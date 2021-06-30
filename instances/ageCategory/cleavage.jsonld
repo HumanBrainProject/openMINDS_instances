@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/ageCategory/cleavage",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
-  "definition": "'Cleavage' categorizes the life cycle stage (specialized cell divisions) of an early animal or human embryo.",
+  "definition": "'Cleavage' categorizes the life cycle stage (specialized cell divisions) of an early animal or human embryo which ends with the formation of the blastula.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
