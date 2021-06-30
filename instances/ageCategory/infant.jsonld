@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "infant",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034920",
-  "synonym": null
+  "synonym": [
+    "infant stage"
+  ]
 }
