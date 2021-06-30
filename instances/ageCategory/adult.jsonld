@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "adult",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000113",
-  "synonym": null
+  "synonym": [
+    "adult stage"
+  ]
 }
