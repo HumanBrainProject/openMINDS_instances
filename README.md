@@ -17,8 +17,7 @@ The openMINDS_instances repository is part of the **open** **M**etadata **I**nit
 }
 ```
 
-The values written in capital letters need to be replaced accordingly. Here a full example of an instance for an openMINDS_controlledTerms schema type:  
-**Example:** `/instances/species/homoSapiens.jsonld` 
+The values written in capital letters need to be replaced accordingly. Here a full example of an instance for an openMINDS_controlledTerms schema type (cf. `/instances/species/homoSapiens.jsonld`):
 
 ```json
 {
