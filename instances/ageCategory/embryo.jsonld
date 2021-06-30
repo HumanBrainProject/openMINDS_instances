@@ -10,5 +10,8 @@
   "knowledgeSpaceLink": null,
   "name": "embryo",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000068",
-  "synonym": null
+  "synonym": [
+    "embryo stage",
+    "embryonic stage"
+  ]
 }
