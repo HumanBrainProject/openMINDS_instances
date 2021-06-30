@@ -10,5 +10,9 @@
   "knowledgeSpaceLink": null,
   "name": "Callithrix jacchus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9483",
-  "synonym": null
+  "synonym": [
+    "Callithrix jacchus jacchus",
+    "common marmoset",
+    "white-tufted-ear marmoset",
+    "white ear-tufted marmoset"
 }
