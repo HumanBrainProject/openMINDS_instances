@@ -10,5 +10,8 @@
   "knowledgeSpaceLink": null,
   "name": "prime adult",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018241",
-  "synonym": null
+  "synonym": [
+    "prime adult stage",
+    "adulthood stage"
+  ]
 }
