@@ -10,5 +10,8 @@
   "knowledgeSpaceLink": null,
   "name": "Mustela putorius",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9668",
-  "synonym": null
+  "synonym": [
+    "European polecat",
+    "Putorius putorius"
+  ]
 }
