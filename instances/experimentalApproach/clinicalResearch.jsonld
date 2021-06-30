@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/clinicalResearch",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
-  "name": "clinical research",
   "definition": "Any experimental approach focused on medical observation, treatment, or testing of patients.",
   "description": null,
-  "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0739401"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "clinical research",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739401",
+  "synonym": null
 }

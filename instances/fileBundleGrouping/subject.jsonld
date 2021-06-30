@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/fileBundleGrouping/subject",
   "@type": "https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping",
-  "name": "subject",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subject",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }
-

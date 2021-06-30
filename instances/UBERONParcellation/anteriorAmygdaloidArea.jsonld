@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorAmygdaloidArea",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "anterior amygdaloid area",
   "definition": null,
   "description": "'Anterior amygdaloid area' is a cerebral hemisphere gray matter. It is part of the corticomedial nuclear complex.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002890"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "anterior amygdaloid area",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002890",
+  "synonym": null
 }

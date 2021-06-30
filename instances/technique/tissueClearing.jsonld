@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/tissueClearing",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "tissue clearing",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "tissue clearing",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

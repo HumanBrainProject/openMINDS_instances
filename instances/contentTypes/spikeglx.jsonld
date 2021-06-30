@@ -1,8 +1,13 @@
 {
-    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.spikeglx.system",
-    "@type": "https://openminds.ebrains.eu/core/ContentType",
-    "name": "application/vnd.spikeglx.system",
-    "fileExtension": null,
-    "relatedMediaType": null,
-    "synonym": ["SpikeGLX system"]
-  }
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.spikeglx.system",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "fileExtension": null,
+  "name": "application/vnd.spikeglx.system",
+  "relatedMediaType": null,
+  "synonym": [
+    "SpikeGLX system"
+  ]
+}

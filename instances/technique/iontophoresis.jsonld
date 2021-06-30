@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/iontophoresis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "iontophoresis",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "iontophoresis",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

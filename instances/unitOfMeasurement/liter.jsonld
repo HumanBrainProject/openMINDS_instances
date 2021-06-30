@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/liter",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "name": "liter",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "liter",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }
-

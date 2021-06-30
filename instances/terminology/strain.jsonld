@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/terminology/strain",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "strain",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "strain",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

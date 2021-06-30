@@ -1,8 +1,14 @@
 {
-    "@id": "https://openminds.ebrains.eu/instances/actionStatusType/completed",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
-    "name": "completed",
-    "definition": "An action that has already taken place",
-    "description": null,
-    "ontologyIdentifier": "https://schema.org/CompletedActionStatus"
-  }
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/completed",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
+  "definition": "An action that has already taken place",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "completed",
+  "preferredOntologyIdentifier": "https://schema.org/CompletedActionStatus",
+  "synonym": null
+}

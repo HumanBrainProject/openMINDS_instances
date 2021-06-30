@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/modelScope/singleCell",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
-  "name": "single cell",
   "definition": "A model of a single cell",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "single cell",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

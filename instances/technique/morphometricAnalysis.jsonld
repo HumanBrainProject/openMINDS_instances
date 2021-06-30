@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/morphometricAnalysis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "morphometric analysis",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "morphometric analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,16 @@
 {
-    "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/tiff.multichannel",
-    "@type": "https://openminds.ebrains.eu/core/ContentType",
-    "name": "image/tiff.multichannel",
-    "fileExtension": [".tiff", ".tif"],
-    "relatedMediaType": null,
-    "synonym": ["Tagged Image File (Multi channel)"]
-  }
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/image/tiff.multichannel",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "fileExtension": [
+    ".tiff",
+    ".tif"
+  ],
+  "name": "image/tiff.multichannel",
+  "relatedMediaType": null,
+  "synonym": [
+    "Tagged Image File (Multi channel)"
+  ]
+}

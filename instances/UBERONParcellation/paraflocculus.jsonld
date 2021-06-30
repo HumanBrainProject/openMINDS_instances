@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paraflocculus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "paraflocculus",
   "definition": null,
   "description": "'Paraflocculus' is a cerebellum hemisphere lobule and flocculonodular lobe, hemisphere portion.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005351"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "paraflocculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005351",
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/species/mustelaPutoriusFuro",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
-  "name": "Mustela putorius furo",
   "definition": "The species *Mustela putorius furo* (ferret) belongs to the family of *mustelidae* (mustelids).",
   "description": null,
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9669"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Mustela putorius furo",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9669",
+  "synonym": null
 }

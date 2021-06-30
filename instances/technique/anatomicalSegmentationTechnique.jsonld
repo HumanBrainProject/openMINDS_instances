@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/anatomicalSegmentationTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "anatomical segmentation technique",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "anatomical segmentation technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

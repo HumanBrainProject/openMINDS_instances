@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/disease/fragileXsyndrome",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
-  "name": "fragile X syndrome",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/DOID_14261"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fragile X syndrome",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_14261",
+  "synonym": null
 }

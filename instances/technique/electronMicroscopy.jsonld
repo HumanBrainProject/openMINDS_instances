@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/electronMicroscopy",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "electron microscopy",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "electron microscopy",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

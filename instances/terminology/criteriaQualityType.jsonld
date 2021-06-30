@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/terminology/criteriaQualityType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "criteria quality type",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "criteria quality type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

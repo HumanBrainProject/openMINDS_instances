@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/qualitativeAnalysis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "qualitative analysis",
   "definition": "'Qualitative analysis' uses subjective judgment to analyze data based on non-quantifiable information. The resulting data are typically nonnumerical.",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "qualitative analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

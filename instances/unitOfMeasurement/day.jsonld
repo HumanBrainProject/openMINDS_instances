@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/day",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "name": "day",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "day",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

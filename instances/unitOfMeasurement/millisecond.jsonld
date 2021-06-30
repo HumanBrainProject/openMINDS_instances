@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/millisecond",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "name": "millisecond",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "millisecond",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

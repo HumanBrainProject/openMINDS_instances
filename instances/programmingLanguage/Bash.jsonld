@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/Bash",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
-  "name": "Bash",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q189248"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Bash",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q189248",
+  "synonym": null
 }
-

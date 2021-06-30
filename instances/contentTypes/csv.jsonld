@@ -1,8 +1,16 @@
 {
-    "@id": "https://openminds.ebrains.eu/instances/contentTypes/text/csv",
-    "@type": "https://openminds.ebrains.eu/core/ContentType",
-    "name": "text/csv",
-    "fileExtension": [".csv"],
-    "relatedMediaType": "https://www.iana.org/assignments/media-types/text/csv",
-    "synonym": ["Comma-Separated Value", "CSV"]
-  }
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/text/csv",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "fileExtension": [
+    ".csv"
+  ],
+  "name": "text/csv",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/text/csv",
+  "synonym": [
+    "Comma-Separated Value",
+    "CSV"
+  ]
+}

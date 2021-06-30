@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/language/greek",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
-  "name": "Greek",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Greek",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

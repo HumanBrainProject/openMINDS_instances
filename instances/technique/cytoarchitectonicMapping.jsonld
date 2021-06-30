@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/cytoarchitectonicMapping",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "cytoarchitectonic mapping",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cytoarchitectonic mapping",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfTheCerebellum",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "superficial feature part of the cerebellum",
   "definition": null,
   "description": "'Superficial feature part of the cerebellum' is a regional part of brain. It is part of the cerebellum.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024046"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "superficial feature part of the cerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024046",
+  "synonym": null
 }

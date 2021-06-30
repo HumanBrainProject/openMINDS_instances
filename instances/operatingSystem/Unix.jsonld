@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/operatingSystem/Unix",
   "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingSystem",
-  "name": "Unix",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q11368"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Unix",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q11368",
+  "synonym": null
 }

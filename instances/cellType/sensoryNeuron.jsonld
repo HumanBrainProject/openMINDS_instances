@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/cellType/sensoryNeuron",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "name": "sensory neuron",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "sensory neuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

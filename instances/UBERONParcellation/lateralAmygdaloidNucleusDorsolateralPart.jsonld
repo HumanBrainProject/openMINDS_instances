@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusDorsolateralPart",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "lateral amygdaloid nucleus, dorsolateral part",
   "definition": null,
   "description": "'Lateral amygdaloid nucleus, dorsolateral part' is a regional part of brain.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023415"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "lateral amygdaloid nucleus, dorsolateral part",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023415",
+  "synonym": null
 }

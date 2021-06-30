@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/electroencephalography",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "electroencephalography",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "electroencephalography",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

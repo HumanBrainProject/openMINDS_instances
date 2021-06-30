@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/ageCategory/perinatal",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
-  "name": "perinatal",
   "definition": "'Perinatal' categorizes the life cycle stage of an animal or human that starts right before birth and ends right after birth.",
   "description": null,
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012101"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "perinatal",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012101",
+  "synonym": null
 }

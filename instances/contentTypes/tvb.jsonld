@@ -1,8 +1,13 @@
 {
-    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.thevirtualbrain",
-    "@type": "https://openminds.ebrains.eu/core/ContentType",
-    "name": "application/vnd.thevirtualbrain",
-    "fileExtension": null,
-    "relatedMediaType": null,
-    "synonym": ["TVB"]
-  }
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.thevirtualbrain",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "fileExtension": null,
+  "name": "application/vnd.thevirtualbrain",
+  "relatedMediaType": null,
+  "synonym": [
+    "TVB"
+  ]
+}

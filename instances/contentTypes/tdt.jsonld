@@ -1,8 +1,13 @@
 {
-    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.tdt",
-    "@type": "https://openminds.ebrains.eu/core/ContentType",
-    "name": "application/vnd.tdt",
-    "fileExtension": null,
-    "relatedMediaType": null,
-    "synonym": ["Tucker David TTank format"]
-  }
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.tdt",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "fileExtension": null,
+  "name": "application/vnd.tdt",
+  "relatedMediaType": null,
+  "synonym": [
+    "Tucker David TTank format"
+  ]
+}

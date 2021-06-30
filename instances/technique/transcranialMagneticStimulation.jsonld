@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/transcranialMagneticStimulation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "transcranial magnetic stimulation",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "transcranial magnetic stimulation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

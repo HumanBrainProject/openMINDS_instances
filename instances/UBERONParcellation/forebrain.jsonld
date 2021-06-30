@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/forebrain",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "forebrain",
   "definition": "The most anterior region the brain including both the telencephalon and diencephalon.",
   "description": "'Forebrain' is a regional part of brain.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001890"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "forebrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001890",
+  "synonym": null
 }

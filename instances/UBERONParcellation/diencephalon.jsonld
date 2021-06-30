@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalon",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "diencephalon",
   "definition": "The division of the forebrain that develops from the foremost primary cerebral vesicle.",
   "description": "'Diencephalon' is a regional part of brain. It is part of the forebrain.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001894"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "diencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001894",
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/spatialTransformation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "spatial transformation",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "spatial transformation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/softwareFeature/timeSeriesDataTypes",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "time series data types",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q186588"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "time series data types",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q186588",
+  "synonym": null
 }
-

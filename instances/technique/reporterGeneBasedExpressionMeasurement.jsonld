@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/reporterGeneBasedExpressionMeasurement",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "reporter gene based expression measurement",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "reporter gene based expression measurement",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/ageCategory/infant",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
-  "name": "infant",
   "definition": "'Infant' categorizes the life cycle stage of mammals (animal or human) that follows the neonate stage and ends at weaning.",
   "description": null,
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034920"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "infant",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034920",
+  "synonym": null
 }
-

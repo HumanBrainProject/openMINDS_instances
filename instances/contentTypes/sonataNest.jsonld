@@ -1,8 +1,13 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sonata.nest",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
-  "name": "application/vnd.sonata.nest",
   "fileExtension": null,
+  "name": "application/vnd.sonata.nest",
   "relatedMediaType": null,
-  "synonym": ["SONATA:NEST"]
+  "synonym": [
+    "SONATA:NEST"
+  ]
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/contrastEnhancement",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "contrast enhancement",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "contrast enhancement",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

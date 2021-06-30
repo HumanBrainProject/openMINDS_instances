@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/language/dutch",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
-  "name": "Dutch",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Dutch",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

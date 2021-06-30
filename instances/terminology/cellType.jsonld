@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/terminology/cellType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "cell type",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cell type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

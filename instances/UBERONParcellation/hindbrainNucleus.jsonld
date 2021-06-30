@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "hindbrain nucleus",
   "definition": "Nucleus located within the hindbrain.",
   "description": "'Hindbrain nucleus' is a nucleus of brain. It is part of the hindbrain.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009662"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "hindbrain nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009662",
+  "synonym": null
 }

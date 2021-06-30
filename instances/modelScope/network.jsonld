@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/modelScope/network",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
-  "name": "network",
   "definition": "A model of a neuronal network",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "network",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/hour",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "name": "hour",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "hour",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/CLARITY_TDE",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "CLARITY/TDE",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "CLARITY/TDE",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

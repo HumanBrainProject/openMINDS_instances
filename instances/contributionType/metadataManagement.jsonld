@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/contributionType/metadataManagment",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
-  "name": "metadata managment",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "metadata managment",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }
-

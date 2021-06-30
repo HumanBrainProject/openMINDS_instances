@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/behavioralTask/HCPMotorTask",
   "@type": "https://openminds.ebrains.eu/controlledTerms/BehavioralTask",
-  "name": "HCP Motor task",
   "definition": "In the 'HCP Motor task' participants are presented with visual cues that ask them to either (i) tap their left or right fingers, (ii) squeeze their left or right toes, or move their tongue to map motor areas. The task is included in the Human Connectome Project.",
   "description": "The 'HCP Motor task' was adapted from the one developed by Buckner and colleagues (Buckner et al. 2011; Yeo et al. 2011). Participants are presented with visual cues that ask them to either tap their left or right fingers, or squeeze their left or right toes, or move their tongue to map motor areas. Each block of a movement type lasted 12 seconds (10 movements), and is preceded by a 3 second cue. In each of the two runs, there are 13 blocks, with 2 of tongue movements, 4 of hand movements (2 right and 2 left), and 4 of foot movements (2 right and 2 left). In addition, there are 3 15-second fixation blocks per run. This task contains the following events, each of which is computed against the fixation baseline.",
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "HCP Motor task",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }
-

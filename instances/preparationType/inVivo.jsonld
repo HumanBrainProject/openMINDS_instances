@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/preparationType/inVivo",
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
-  "name": "in vivo",
   "definition": "Something happening or existing inside a living body.",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "in vivo",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

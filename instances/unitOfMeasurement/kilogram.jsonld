@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/kilogram",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "name": "kilogram",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "kilogram",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }
-

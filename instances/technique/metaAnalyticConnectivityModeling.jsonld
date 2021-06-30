@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/metaAnalyticConnectivityModeling",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "meta-analytic connectivity modeling",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "meta-analytic connectivity modeling",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/generalLinearModeling",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "general linear modeling",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "general linear modeling",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

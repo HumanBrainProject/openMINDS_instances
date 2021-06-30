@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/diffusionWeightedImaging",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "diffusion-weighted imaging",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "diffusion-weighted imaging",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

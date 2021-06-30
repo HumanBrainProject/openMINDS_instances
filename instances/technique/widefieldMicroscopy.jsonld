@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/widefieldMicroscopy",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "widefield microscopy",
   "definition": "'Widefield microscopy' comprises all microscopy techniques in which the entire sample is permanently exposed to a light source.",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "widefield microscopy",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

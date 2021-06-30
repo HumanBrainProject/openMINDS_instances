@@ -1,8 +1,18 @@
 {
-    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neo.ascii.signal",
-    "@type": "https://openminds.ebrains.eu/core/ContentType",
-    "name": "application/vnd.neo.ascii.signal",
-    "fileExtension": [".txt", ".asc", ".csv", ".tsv,"],
-    "relatedMediaType": null,
-    "synonym": ["Neo AnalogSignals"]
-  }
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neo.ascii.signal",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "fileExtension": [
+    ".txt",
+    ".asc",
+    ".csv",
+    ".tsv,"
+  ],
+  "name": "application/vnd.neo.ascii.signal",
+  "relatedMediaType": null,
+  "synonym": [
+    "Neo AnalogSignals"
+  ]
+}

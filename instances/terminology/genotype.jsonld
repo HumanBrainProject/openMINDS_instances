@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/terminology/genotype",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "genotype",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "genotype",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

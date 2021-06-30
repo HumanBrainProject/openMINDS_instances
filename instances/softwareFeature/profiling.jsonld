@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/softwareFeature/profiling",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "profiling",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q1138496"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "profiling",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q1138496",
+  "synonym": null
 }
-

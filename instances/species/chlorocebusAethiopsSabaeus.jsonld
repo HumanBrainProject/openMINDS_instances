@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/species/chlorocebusAethiopsSabaeus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
-  "name": "Chlorocebus aethiops sabaeus",
   "definition": "The species *Chlorocebus aethiops sabaeus* (Caribbean vervet monkey) belongs to the family of *cercopithecidae* (old world monkeys).",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Chlorocebus aethiops sabaeus",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/modelScope/network-microcircuit",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
-  "name": "network: microcircuit",
   "definition": "A model of a neuronal microcircuit",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "network: microcircuit",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

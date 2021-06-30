@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/terminology/diseaseModel",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "disease model",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "disease model",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

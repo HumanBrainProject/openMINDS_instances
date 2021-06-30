@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/modelScope/subcellular-spine",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
-  "name": "subcellular: spine",
   "definition": "A model of a dendritic spine, or of a dendritic region containing several spines",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subcellular: spine",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

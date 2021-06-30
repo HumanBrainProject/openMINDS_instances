@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/cellType/striatalInterneuron",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "name": "striatal interneuron",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "striatal interneuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

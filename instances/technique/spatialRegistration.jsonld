@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/spatialRegistration",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "spatial registration",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "spatial registration",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

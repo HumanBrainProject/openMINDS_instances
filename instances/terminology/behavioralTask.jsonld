@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/terminology/behavioralTask",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "behavioral task",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "behavioral task",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

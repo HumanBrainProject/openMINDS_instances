@@ -1,8 +1,16 @@
 {
-    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application.vnd.nwb.nwbn+hdf",
-    "@type": "https://openminds.ebrains.eu/core/ContentType",
-    "name": "application.vnd.nwb.nwbn+hdf",
-    "fileExtension": [".nwb", ".h5"],
-    "relatedMediaType": null,
-    "synonym": ["NWB:N"]
-  }
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application.vnd.nwb.nwbn+hdf",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "fileExtension": [
+    ".nwb",
+    ".h5"
+  ],
+  "name": "application.vnd.nwb.nwbn+hdf",
+  "relatedMediaType": null,
+  "synonym": [
+    "NWB:N"
+  ]
+}

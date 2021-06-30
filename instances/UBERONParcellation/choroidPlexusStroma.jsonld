@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusStroma",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "choroid plexus stroma",
   "definition": "Stromal matrix surrounding blood vessels within the choroid plexus.",
   "description": "'Choroid plexus stroma' is part of the choroid plexus.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005206"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "choroid plexus stroma",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005206",
+  "synonym": null
 }

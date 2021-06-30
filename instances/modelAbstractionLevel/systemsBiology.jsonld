@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
-  "name": "systems biology",
   "definition": "Modelling of neural systems below the level of individual neurons",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "systems biology",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

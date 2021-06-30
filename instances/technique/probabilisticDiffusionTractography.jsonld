@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/probabilisticDiffusionTractography",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "probabilistic diffusion tractography",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "probabilistic diffusion tractography",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

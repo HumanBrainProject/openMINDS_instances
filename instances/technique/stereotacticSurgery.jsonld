@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/stereotacticSurgery",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "stereotactic surgery",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "stereotactic surgery",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/cellType/cerebellarInterneuron",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "name": "cerebellar interneuron",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebellar interneuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/preparationType/exVivo",
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
-  "name": "ex vivo",
   "definition": "Something happening or existing outside a living body.",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ex vivo",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

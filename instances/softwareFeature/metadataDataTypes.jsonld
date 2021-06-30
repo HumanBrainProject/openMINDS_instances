@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/softwareFeature/metadataDataTypes",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "metadata data types",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q180160"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "metadata data types",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q180160",
+  "synonym": null
 }
-

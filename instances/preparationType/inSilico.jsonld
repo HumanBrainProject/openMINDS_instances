@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/preparationType/inSilico",
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
-  "name": "in silico",
   "definition": "Conducted or produced by means of computer modelling or simulation.",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "in silico",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

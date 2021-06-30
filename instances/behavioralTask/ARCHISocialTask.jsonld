@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/behavioralTask/ARCHISocialTask",
   "@type": "https://openminds.ebrains.eu/controlledTerms/BehavioralTask",
-  "name": "ARCHI Social task",
   "definition": "In the 'ARCHI Social task' participants have to watch or listen to different events that tackle cognitive functions implicated in social cognition, namely mental abilities linked to the theory-of-mind or social interplay.",
   "description": "[extracted from Phino et al. 2018] The 'ARCHI Social task' tackles cognitive functions implicated in social cognition, namely mental abilities linked to the theory-of-mind or social interplay. The paradigm has a block design. All blocks are constituted by a set of trials, each of them containing one event. There are eight types of events, that can be described as follows: (1) watch short movies of triangles, exhibiting a putative social interaction; (2) watch short movies of triangles, displaying random movements; (3-4) interpret silently short stories, featuring a false-belief plot, which were presented as visual (3) or auditory (4) stimuli; (5-6) interpret silently short stories, featuring a cause-consequence mechanistic plot, which were presented as visual (5) or auditory (6) stimuli; (7) listen passively to short samples of human voices; and (8) listen passively to short samples of natural sounds. The task is constituted by fifteen blocks per run. Each block includes one to eight trials. The presentation of trials within a block is pseudo-randomized for the session, but fixed for all participants. The duration of the trials ranges between six and eight seconds. A fixation cross is presented between each block between three and six seconds.",
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ARCHI Social task",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

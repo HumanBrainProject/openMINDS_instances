@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorOlfactoryNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "anterior olfactory nucleus",
   "definition": "Laminated structure lying caudal to the olfactory bulb.",
   "description": "'Anterior olfactory nucleus' is a telencephalic nucleus. It is part of the olfactory cortex.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002266"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "anterior olfactory nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002266",
+  "synonym": null
 }

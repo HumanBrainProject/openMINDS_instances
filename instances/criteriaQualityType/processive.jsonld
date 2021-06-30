@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/processive",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType",
-  "name": "processive",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "processive",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }
-

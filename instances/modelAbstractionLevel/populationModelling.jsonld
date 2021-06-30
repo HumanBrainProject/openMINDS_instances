@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
-  "name": "population modelling",
   "definition": "Modelling of neural circuits at the population level",
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "population modelling",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

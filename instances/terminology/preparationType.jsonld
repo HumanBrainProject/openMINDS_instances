@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/terminology/preparationType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "preparation type",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "preparation type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/cellType/glialCell",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "name": "glial cell",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "glial cell",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

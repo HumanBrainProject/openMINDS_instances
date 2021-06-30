@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfPons",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "medial longitudinal fasciculus of pons",
   "definition": null,
   "description": "'Medial longitudinal fasciculus of pons' is a medial longitudinal fasciculus. It is part of the pons.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002794"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "medial longitudinal fasciculus of pons",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002794",
+  "synonym": null
 }

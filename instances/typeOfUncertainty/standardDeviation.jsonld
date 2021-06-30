@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/typeOfUncertainty/standardDeviation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty",
-  "name": "standard deviation",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "standard deviation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

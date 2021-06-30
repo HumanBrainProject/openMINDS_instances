@@ -1,8 +1,13 @@
 {
-    "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.klustakwik",
-    "@type": "https://openminds.ebrains.eu/core/ContentType",
-    "name": "application/vnd.klustakwik",
-    "fileExtension": null,
-    "relatedMediaType": null,
-    "synonym": ["KlustaKwik Format"]
-  }
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application/vnd.klustakwik",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "fileExtension": null,
+  "name": "application/vnd.klustakwik",
+  "relatedMediaType": null,
+  "synonym": [
+    "KlustaKwik Format"
+  ]
+}

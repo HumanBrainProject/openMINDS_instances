@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/subduralElectrocorticography",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "subdural electrocorticography",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subdural electrocorticography",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

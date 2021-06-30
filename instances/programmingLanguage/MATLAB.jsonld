@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/MATLAB",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
-  "name": "MATLAB",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q37805571"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MATLAB",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q37805571",
+  "synonym": null
 }
-

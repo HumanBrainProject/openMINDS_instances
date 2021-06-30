@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/T1WeightedMagneticResonanceImaging",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "T1-weighted magnetic resonance imaging",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "T1-weighted magnetic resonance imaging",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

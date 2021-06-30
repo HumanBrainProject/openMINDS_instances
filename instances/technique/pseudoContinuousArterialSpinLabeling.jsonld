@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/pseudoContinuousArterialSpinLabeling",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "pseudo-continuous arterial spin labeling",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pseudo-continuous arterial spin labeling",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/cellType/motorNeuron",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "name": "motor neuron",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "motor neuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/secondaryAntibodyStaining",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "secondary antibody staining",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "secondary antibody staining",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

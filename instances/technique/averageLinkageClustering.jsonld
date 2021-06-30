@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/averageLinkageClustering",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "average linkage clustering",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "average linkage clustering",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

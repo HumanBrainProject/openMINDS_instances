@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/SDSDigestedFreezeFractureReplicaLabeling",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "SDS-digested freeze-fracture replica labeling",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "SDS-digested freeze-fracture replica labeling",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

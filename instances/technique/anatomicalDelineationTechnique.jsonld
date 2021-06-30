@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/anatomicalDelineationTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "anatomical delineation technique",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "anatomical delineation technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

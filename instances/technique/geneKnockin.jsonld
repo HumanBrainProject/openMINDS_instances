@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/geneKnockin",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "gene knockin",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "gene knockin",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

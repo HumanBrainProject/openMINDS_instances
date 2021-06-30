@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/organExtraction",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "organ extraction",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "organ extraction",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

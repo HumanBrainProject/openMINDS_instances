@@ -1,9 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/Scala",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
-  "name": "Scala",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q460584"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Scala",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q460584",
+  "synonym": null
 }
-

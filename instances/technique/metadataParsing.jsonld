@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/metadataParsing",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "metadata parsing",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "metadata parsing",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/highDensityElectroencephalography",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "high-density electroencephalography",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "high-density electroencephalography",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

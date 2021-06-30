@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfStriatum",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "chemoarchitectural part of striatum",
   "definition": null,
   "description": "'Chemoarchitectural part of striatum' is a chemoarchitectural part of brain. It is part of the striatum.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0025736"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "chemoarchitectural part of striatum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0025736",
+  "synonym": null
 }

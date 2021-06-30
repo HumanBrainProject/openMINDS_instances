@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/vibratomeSectioning",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "vibratome sectioning",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "vibratome sectioning",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/singleCellRNASequencing",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "single cell RNA sequencing",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "single cell RNA sequencing",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

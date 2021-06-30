@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/positronEmissionTomography",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "positron emission tomography",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "positron emission tomography",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

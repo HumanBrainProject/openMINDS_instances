@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/hierarchicalClustering",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "hierarchical clustering",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "hierarchical clustering",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

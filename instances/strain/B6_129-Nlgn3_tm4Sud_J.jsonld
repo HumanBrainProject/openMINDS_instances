@@ -1,12 +1,18 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/strain/B6_129-Nlgn3_tm4Sud_J",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
-  "name": "B6.129-Nlgn3<sup>tm4Sud</sup>/J",
+  "definition": "'B6.129-Nlgn3<sup>tm4Sud</sup>/J' (synonyms: 'B6.129-Nlgn3<sup>tm4(Venus)Sud</sup>/J') is a congenic, mutant strain of the species 'Mus musculus'.",
+  "description": null,
   "identifier": [
     "MGI:5503993",
     "JAX:023398"
   ],
-  "definition": "'B6.129-Nlgn3<sup>tm4Sud</sup>/J' (synonyms: 'B6.129-Nlgn3<sup>tm4(Venus)Sud</sup>/J') is a congenic, mutant strain of the species 'Mus musculus'.",
-  "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "B6.129-Nlgn3<sup>tm4Sud</sup>/J",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

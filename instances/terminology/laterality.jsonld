@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/terminology/laterality",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "laterality",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "laterality",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

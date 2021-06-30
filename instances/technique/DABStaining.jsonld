@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/DABStaining",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "DAB staining",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "DAB staining",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

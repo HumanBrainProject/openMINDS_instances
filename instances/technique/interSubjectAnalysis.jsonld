@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/interSubjectAnalysis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "inter-subject analysis",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "inter-subject analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

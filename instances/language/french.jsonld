@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/language/french",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
-  "name": "French",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "French",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

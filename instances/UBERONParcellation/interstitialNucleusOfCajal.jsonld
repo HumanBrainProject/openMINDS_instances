@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/interstitialNucleusOfCajal",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "interstitial nucleus of Cajal",
   "definition": "The largest and most prominent of the cell groups of the medial longitudinal fasciculus.",
   "description": "'Interstitial nucleus of Cajal' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002551"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "interstitial nucleus of Cajal",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002551",
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/language/italian",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
-  "name": "Italian",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Italian",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/terminology/unitOfMeasurement",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "unit of measurement",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "unit of measurement",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

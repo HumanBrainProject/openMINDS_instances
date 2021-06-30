@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/technique/maximumProbabilityProjection",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "maximum probability projection",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "maximum probability projection",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }

@@ -1,8 +1,14 @@
 {
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfFourthVentricle",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "name": "lateral eminence of fourth ventricle",
   "definition": null,
   "description": "'Lateral eminence of fourth ventricle' is part of the fourth ventricle.",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034672"
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "lateral eminence of fourth ventricle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034672",
+  "synonym": null
 }
