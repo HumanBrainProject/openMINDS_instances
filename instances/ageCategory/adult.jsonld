@@ -11,6 +11,8 @@
   "name": "adult",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000113",
   "synonym": [
-    "adult stage"
+    "adult stage",
+    "post-juvenile adult",
+    "post-juvenile adult stage"
   ]
 }
