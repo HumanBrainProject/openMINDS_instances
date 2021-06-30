@@ -10,5 +10,8 @@
   "knowledgeSpaceLink": null,
   "name": "neonate",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007221",
-  "synonym": null
+  "synonym": [
+    "neonate stage",
+    "neonatal stage"
+  ]
 }
