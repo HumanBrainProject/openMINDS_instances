@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "in vivo",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0001199",
-  "synonym": ["in vivo design"]
+  "synonym": [
+    "in vivo design"
+  ]
 }
