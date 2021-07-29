@@ -10,5 +10,8 @@
   "knowledgeSpaceLink": null,
   "name": "genetics",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_inv_100628",
-  "synonym": null
+  "synonym": [
+    "heredity",
+    "genes"
+  ]
 }
