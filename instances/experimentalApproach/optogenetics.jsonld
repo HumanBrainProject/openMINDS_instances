@@ -6,9 +6,9 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Any experimental approach focused on using genetically encoded light-sensitive proteins in combination with targeted delivery of light in order to manipulate the behavior of populations of cells.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0737732",
   "knowledgeSpaceLink": null,
   "name": "optogenetics",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0562437",
   "synonym": null
 }
