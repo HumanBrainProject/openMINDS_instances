@@ -9,7 +9,7 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739392",
   "knowledgeSpaceLink": null,
   "name": "evolutionary biology",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739392",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Evolution",
   "synonym": [
     "evolutionary approach"
   ]
