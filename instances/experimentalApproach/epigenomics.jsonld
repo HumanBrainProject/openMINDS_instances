@@ -9,6 +9,6 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0741207",
   "knowledgeSpaceLink": null,
   "name": "epigenomics",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741207",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Epigenomics",
   "synonym": null
 }
