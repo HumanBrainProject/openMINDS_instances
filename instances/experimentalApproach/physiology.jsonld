@@ -9,7 +9,7 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739410",
   "knowledgeSpaceLink": null,
   "name": "physiology",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739410",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Physiology",
   "synonym": [
     "physiological approach"
   ]
