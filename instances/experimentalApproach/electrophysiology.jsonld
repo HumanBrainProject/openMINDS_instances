@@ -9,6 +9,6 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0741202",
   "knowledgeSpaceLink": null,
   "name": "electrophysiology",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741202",
+  "preferredOntologyIdentifier": "	http://uri.interlex.org/tgbugs/uris/readable/modality/Electrophysiology",
   "synonym": null
 }
