@@ -9,7 +9,7 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739413",
   "knowledgeSpaceLink": null,
   "name": "behavior",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739413",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Behavior",
   "synonym": [
     "behavioral approach"
   ]
