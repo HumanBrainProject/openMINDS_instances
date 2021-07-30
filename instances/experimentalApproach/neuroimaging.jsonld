@@ -9,6 +9,6 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0741206",
   "knowledgeSpaceLink": null,
   "name": "neuroimaging",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741206",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Neuroimaging",
   "synonym": null
 }
