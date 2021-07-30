@@ -9,7 +9,7 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739400",
   "knowledgeSpaceLink": null,
   "name": "epidemiology",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739400",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Epidemiology",
   "synonym": [
     "epidemiological approach"
   ]
