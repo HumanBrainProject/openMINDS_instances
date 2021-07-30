@@ -9,7 +9,7 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739388",
   "knowledgeSpaceLink": null,
   "name": "ethology",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739388",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Ethology",
   "synonym": [
     "ethological approach"
   ]
