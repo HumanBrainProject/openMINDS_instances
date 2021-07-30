@@ -9,6 +9,6 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739394",
   "knowledgeSpaceLink": null,
   "name": "cell morphology",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739394",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/CellMorphology",
   "synonym": null
 }
