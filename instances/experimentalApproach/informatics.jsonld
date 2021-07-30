@@ -6,13 +6,9 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Any experimental approach focused on collection, classification, storage, retrieval, analysis, visualization, and dissemination of recorded knowledge in computational systems.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0105471",
+  "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "informatics",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_inv_100631",
-  "synonym": [
-    "information management",
-    "knowledge management",
-    "information science"
-  ]
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }
