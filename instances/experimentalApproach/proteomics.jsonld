@@ -9,6 +9,6 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0741205",
   "knowledgeSpaceLink": null,
   "name": "proteomics",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741205",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Proteomics",
   "synonym": null
 }
