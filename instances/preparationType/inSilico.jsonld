@@ -9,6 +9,6 @@
   "interlexIdentifier": "http://uri.interlex.org/ilx_0494742",
   "knowledgeSpaceLink": null,
   "name": "in silico",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0572590",
   "synonym": null
 }
