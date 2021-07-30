@@ -6,12 +6,9 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Experimental approach that measures or manipulates some aspect of the genetic material of an organism.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0104598",
+  "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "genetics",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_inv_100628",
-  "synonym": [
-    "heredity",
-    "genes"
-  ]
+  "preferredOntologyIdentifier": null,
+  "synonym": null
 }
