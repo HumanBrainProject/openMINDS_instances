@@ -9,6 +9,6 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739414",
   "knowledgeSpaceLink": null,
   "name": "computational modeling",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739414",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/ComputationalModelling",
   "synonym": null
 }
