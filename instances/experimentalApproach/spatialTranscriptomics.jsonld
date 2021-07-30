@@ -9,6 +9,6 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739396",
   "knowledgeSpaceLink": null,
   "name": "spatial transcriptomics",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739396",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/SpatialTranscriptomics",
   "synonym": null
 }
