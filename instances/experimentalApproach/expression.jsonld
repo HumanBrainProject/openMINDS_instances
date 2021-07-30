@@ -9,7 +9,7 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739397",
   "knowledgeSpaceLink": null,
   "name": "expression",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739397",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Expression",
   "synonym": [
     "molecular expression approach"
   ]
