@@ -9,6 +9,6 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0741204",
   "knowledgeSpaceLink": null,
   "name": "genomics",
-  "preferredOntologyIdentifier": "	http://uri.interlex.org/tgbugs/uris/readable/modality/Genomics",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Genomics",
   "synonym": null
 }
