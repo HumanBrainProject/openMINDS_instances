@@ -1,5 +1,9 @@
 # openMINDS_instances
 
+⚠️ ⚠️ **THIS REPOSITORY IS DEPRECATED** ⚠️ ⚠️ 
+
+***Recent changes in the structure of the openMINDS repositories that were made to better handle versioning of the openMINDS schemas led to decision to move all instances to the version branches of the openMINDS metadata model repositories of the respective schemas they are validated against.***
+
 The openMINDS_instances repository is part of the **open** **M**etadata **I**nitiative for **N**euroscience **D**ata **S**tructures (openMINDS). It contains well defined metadata representations (JSON-LDs) that are most likely to be reused across different research products. Currently, openMINDS provides predefined instances for all ControlledTerms, Licence, and ContentType schemas. 
 
 **How to request new instances?** Requests for adding new instances to this libraray can be made by getting in touch with the openMINDS development team (through the Issues or the support email: coming soon). The team will attend to a request as soon as possible. Note that instances should be well defined to be useful for the community. They should at least provide a one sentence definition, and where applicable a reference to a matching ontology term (for ControlledTerms) or another official resource (e.g., IANA for ContentType or SPDX for License). If you would like to contribute, cf. also [CONTRIBUTING](https://github.com/HumanBrainProject/openMINDS_instances/blob/v1/CONTRIBUTING.md).
