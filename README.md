@@ -1,8 +1,29 @@
+# WARNING: DEPRECATED REPOSITORY
+
+**openMINDS moved now to a new GitHub organization: https://github.com/openMetadataInitiative**  
+
+**This movement led to a couple of changes. SUMMARY OF CHANGES:**
++ :arrow_right: https://github.com/openMetadataInitiative/openMINDS
+  + branch 'main' contains vocabulary and fully extended openMINDS schemas in openMINDS syntax
+  + fully extended openMINDS schemas in openMINDS syntax use the extension `*.schema.omi.json`
+  + schemas are build for openMINDS versions in dedicated folders in branch 'main'
+  + code for gathering and extending schemas in the main branch is located in branch 'pipeline'
++ :arrow_right: https://github.com/openMetadataInitiative/openMINDS_json-schema
+  + branch 'main' contains extended openMINDS schemas (per openMINDS version) formatted in JSON-Schema
+  + code for reformmating schemas is located in branch 'pipeline'
++ :arrow_right: https://github.com/openMetadataInitiative/openMINDS_instances
+  + branch 'main' contains libraries of controlled metadata instances and graph structures for selected schemas across openMINDS metadata models
+  + instances and graph strucutres are build for openMINDS versions in dedicated folders in branch 'main'
++ :arrow_right: https://github.com/openMetadataInitiative/openMINDS_Python
+  + branch 'main' contains extended openMINDS schemas (per openMINDS version) coded as Python classes plus other code for openMINDS Python package
+  + code for building openMINDS schema classes is located in branch 'pipeline'
++ :arrow_right: https://github.com/openMetadataInitiative/openMINDS_MATLAB
+  + branch 'main' contains extended openMINDS schemas (per openMINDS version) coded as Python classes plus other code for openMINDS MATLAB package
+  + code for building openMINDS schema classes is located in branch 'pipeline'
++ :arrow_right: https://github.com/openMetadataInitiative/openMINDS_documentation
+  + builds the documentation for openMINDS on Read-The-Docs (https://openminds-documentation.readthedocs.io)
+
 # openMINDS_instances
-
-⚠️ ⚠️ **THIS REPOSITORY IS DEPRECATED** ⚠️ ⚠️ 
-
-***Recent changes in the structure of the openMINDS repositories that were made to better handle versioning of the openMINDS schemas led to decision to move all instances to the version branches of the openMINDS metadata model repositories of the respective schemas they are validated against.***
 
 The openMINDS_instances repository is part of the **open** **M**etadata **I**nitiative for **N**euroscience **D**ata **S**tructures (openMINDS). It contains well defined metadata representations (JSON-LDs) that are most likely to be reused across different research products. Currently, openMINDS provides predefined instances for all ControlledTerms, Licence, and ContentType schemas. 
 
